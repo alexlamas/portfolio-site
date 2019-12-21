@@ -1,0 +1,125 @@
+body
+  font-family: WorkSans-Light
+  font-size: 26px
+  color: #252525
+  background-color: #EAEAEF
+  margin: 0
+
+#name
+  transform-origin: 100% 0
+  transform: rotate(-90deg)
+  font-family: SpaceMono-Regular
+  font-size: 5vh
+  color: #252525
+  text-align: right
+  position: fixed
+  left: -95vh
+  top: 50px
+  width: 100vh
+
+.container
+  margin-left: 150px
+
+#intro
+  max-width: 650px
+  margin-top: 100px
+a
+  color: #252525
+  text-decoration: none
+  padding-bottom: 3px
+  border-bottom: 2px dashed #252525
+  transition: color 100ms ease, border-bottom 100ms ease
+  &:hover
+    color: #38af00
+    border-bottom: 2px dashed #38af00
+
+.section
+  background-color: #DEDEE3
+  margin-top: 50px
+  white-space: nowrap
+  overflow-x: scroll
+  padding: 30px
+  padding-top: 100px
+  p
+    font-family: SpaceMono-Regular
+    font-size: 10px
+    color: gray
+    letter-spacing: 0.7px
+    padding-bottom: 20px
+h1
+  font-family: WorkSans-Regular
+  font-size: 26px
+  color: #252525
+  font-weight: 400
+  position: relative
+  top: 110px
+  margin-left: 30px
+
+.section.projects
+  .article
+    background-image: url(../assets/article-2.png)
+    &:nth-child(2)
+      background-image: url(../assets/article-1.png)
+    &:nth-child(3)
+      background-image: url(../assets/article-4.png)
+    &:nth-child(4)
+      background-image: url(../assets/article-3.png)
+    background-size: cover
+    width: 460px
+    height: 300px
+    display: inline-block
+    margin-right: 15px
+    transition: 100ms box-shadow
+    p
+      position: relative
+      top: -30px
+      opacity: 0.4
+    &:hover
+      cursor: pointer
+      box-shadow: 0 10px 30px 0 rgba(0,0,0,0.10)
+      p
+        opacity: 1
+
+  .dark
+    &:hover
+      box-shadow: 0 10px 30px 0 rgba(0,0,0,0.30)
+
+.section.history
+  padding-top: 100px
+  display: flex
+
+  .year
+    min-width: 280px
+    max-width: 280px
+    display: inline-block
+    white-space: normal
+    padding-right: 60px
+    p
+      margin-bottom: 0
+    .description
+      font-family: WorkSans-Light
+      font-size: 16px
+      color: #252525
+      margin-top: 0
+
+.section::-webkit-scrollbar
+  height: 3px
+
+.section::-webkit-scrollbar-thumb
+  background: #252525
+
+
+.contact
+  font-family: SpaceMono-Regular
+  float: right
+  text-align: right
+  margin-right: 30px
+  margin-bottom: 40px
+  margin-top: 100px
+  h1
+    position: static
+    font-size: 5vh
+    margin: 0
+  a
+    font-size: 16px
+    font-weight: 200
