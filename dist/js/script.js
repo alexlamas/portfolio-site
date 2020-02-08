@@ -14,19 +14,19 @@ $(document).ready(function() {
     var contactHeight = $("#contact").height();
     scroll = $(this).scrollTop();
     if (scroll > projectsTop + projectHeight - windowHeight) {
-      $("#blob").css("fill", "#0db19e70");
+      $(".blob").css("stroke", "#EAEAEF");
     }
     if (scroll + windowHeight - 200 > skillsTop) {
-      $("#blob").css("fill", "#BF3B0B");
+      $(".blob").css("stroke", "#BF3B0B");
     }
     if (scroll + windowHeight - 100 > historyTop) {
-      $("#blob").css("fill", "#FFBFB7");
+      $(".blob").css("stroke", "#FFBFB7");
     }
     if (scroll + windowHeight - 100 > contactTop) {
-      $("#blob").css("fill", "#FFD447");
+      $(".blob").css("stroke", "#FFD447");
     }
     if (scroll < 5) {
-      $("#blob").css("fill", "#EAEAEF");
+      $(".blob").css("stroke", "#EAEAEF");
     }
     if (scroll + windowHeight - contactHeight > contactTop) {
       $("#contact-button").html("👆🏽");

@@ -85,6 +85,7 @@ body {
   color: #252525;
   background-color: white;
   margin: 34vh 0 0 200px;
+  max-width: 1200px;
 }
 
 a {
@@ -253,7 +254,7 @@ p {
 #contact {
   padding-top: 50px;
   padding-bottom: 60px;
-  margin-bottom: 240px;
+  margin-bottom: 35vh;
   margin-top: 140px;
 }
 #contact .logos {
@@ -319,41 +320,68 @@ p {
   border-bottom: 13px solid #FFBFB7;
 }
 
-#blob {
+.blob {
   position: fixed;
   top: 0;
-  left: 25%;
-  fill: #EAEAEF;
-  width: 50vmax;
+  left: 10vmax;
+  fill: none;
+  stroke: #646464;
+  stroke-width: 0.1px;
+  width: 80vmax;
   z-index: -100;
   animation: move 20s linear infinite;
   transition: fill 3s ease;
 }
-
 @keyframes move {
   0% {
-    transform: scale(2) rotate(0deg);
-    opacity: 0.2;
-  }
-  20% {
-    transform: scale(1.8) rotate(72deg);
-    opacity: 0.3;
-  }
-  40% {
-    transform: scale(1.9) rotate(144deg);
-    opacity: 0.4;
-  }
-  60% {
-    transform: scale(2) rotate(236deg);
-    opacity: 0.3;
-  }
-  80% {
-    transform: scale(2.1) rotate(308deg);
-    opacity: 0.25;
+    transform: scale(1) rotate(0deg);
   }
   100% {
-    transform: scale(2) rotate(360deg);
-    opacity: 0.2;
+    transform: scale(1) rotate(360deg);
+  }
+}
+
+#blob2 {
+  animation: move 19s linear infinite;
+}
+
+#blob3 {
+  animation: move 18.5s linear infinite;
+}
+
+#blob4 {
+  animation: move 18s linear infinite;
+}
+
+#blob5 {
+  animation: move 17.5s linear infinite;
+}
+
+#blob6 {
+  animation: move 17s linear infinite;
+}
+
+@media (max-width: 760px) {
+  body {
+    margin-left: 100px;
+  }
+
+  .big-text {
+    font-size: 30px;
+  }
+
+  #projects {
+    padding-top: 100px;
+  }
+  #projects div {
+    max-width: 1000px;
+    margin-right: 0;
+    width: calc(100vw - 140px);
+    height: calc( (100vw - 140px) / (460/300));
+  }
+  #projects div a {
+    width: calc(100vw - 140px);
+    height: calc( (100vw - 140px) / (460/300));
   }
 }
 @media (max-width: 425px) {
