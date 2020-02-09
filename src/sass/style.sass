@@ -1,125 +1,297 @@
+@use 'projects'
+$dark: #252525
+$light-grey: #EAEAEF
+$project-color: #0DB19E
+$skill-color: #BF3B0B
+$history-color: #FFBFB7
+$contact-color: #FFD447
+$small-phone: 425px
+$mid-phone: 760px
+
+html
+  scroll-behavior: smooth
+
 body
-  font-family: WorkSans-Light
+  font-family: 'Work Sans', sans-serif
+  font-weight: 400
+  font-size: 18px
+  color: $dark
+  background-color: white
+  margin: 34vh 0 0 200px
+  max-width: 1200px
+
+a
+  white-space: nowrap
+  color: $dark
+  text-decoration: none
+  border-bottom: 10px solid rgba($project-color, 0.5)
+  transition: all 100ms ease
+  display: inline-block
+  line-height: 24px
+  &:hover
+    border-bottom: 14px solid $project-color
+    line-height: 16px
+
+p
+  font-family: 'Space Mono'
+  font-size: 12px
+  color: $dark
+  letter-spacing: 0.7px
+  padding-bottom: 20px
+
+#contact-button
+  position: fixed
+  z-index: 100
+  width: 46px
+  height: 40px
+  background-color: #00000009
+  border-radius: 100px
+  text-align: center
+  padding-top: 10px
+  line-height: 1.2
+  padding-right: 3px
+  left: 10px
+  top: 10px
+  border: none
+  transition: background-color 200ms, transform 300ms ease-in-out
   font-size: 26px
-  color: #252525
-  background-color: #EAEAEF
-  margin: 0
+  &:hover
+    cursor: pointer
+    background-color: #00000020
 
 #name
-  transform-origin: 100% 0
+  bottom: 42px
+  left: -15px
   transform: rotate(-90deg)
-  font-family: SpaceMono-Regular
-  font-size: 5vh
-  color: #252525
-  text-align: right
+  font-family: 'Space Mono'
   position: fixed
-  left: -95vh
-  top: 50px
-  width: 100vh
+  font-size: 40px
+  z-index: 100
+  a
+    border: none
+    color: #0000003b
+    transition: all 100ms
+    &:hover
+      color: $dark
+      cursor: pointer
 
-.container
-  margin-left: 150px
+.big-text
+  max-width: 1020px
+  padding-right: 20px
+  margin-bottom: 180px
+  font-size: 50px
+  .purple
+    color: $skill-color
 
-#intro
-  max-width: 650px
-  margin-top: 100px
-a
-  color: #252525
-  text-decoration: none
-  padding-bottom: 3px
-  border-bottom: 2px dashed #252525
-  transition: color 100ms ease, border-bottom 100ms ease
-  &:hover
-    color: #38af00
-    border-bottom: 2px dashed #38af00
+#projects
+  display: flex
+  flex-wrap: wrap
+  padding-top: 100px
+  margin-bottom: 230px
+  div
+    margin-right: 60px
+    margin-bottom: 70px
+    outline: 8px solid transparent
+    max-width: 520px
+    height: 340px
+    a
+      width: 520px
+      height: 340px
+      transition: outline 100ms ease
+      outline: 3px solid white
+      border: none
+      background-size: cover
+      background-image: url(../assets/console.png)
+      &:hover
+        border: none
+        cursor: pointer
+        outline: 8px solid $project-color
+      &:active
+        opacity: 0.8
+    &:nth-child(2)
+      a
+        background-image: url(../assets/soundx.png)
+    &:nth-child(3)
+      a
+        background-image: url(../assets/dictionary.png)
+    &:nth-child(4)
+      a
+        background-image: url(../assets/lowtech.png)
+  .coming
+    a
+      &:hover
+        outline: 3px solid white
+        cursor: default
+    p::after
+      color: white
+      content: 'COMING SOON'
+      float: right
+      background-color: $project-color
+      padding: 0 8px
+  p
+    color: rgba($dark, 0.6)
+    user-select: none
+    padding-bottom: 2px
 
-.section
-  background-color: #DEDEE3
-  margin-top: 50px
+#skills
+  margin-bottom: 300px
+
+#history
+  &::-webkit-scrollbar
+    height: 3px
+    opacity: 0.8
+  &::-webkit-scrollbar-thumb
+    background: #0000001f
   white-space: nowrap
   overflow-x: scroll
-  padding: 30px
-  padding-top: 100px
-  p
-    font-family: SpaceMono-Regular
-    font-size: 10px
-    color: gray
-    letter-spacing: 0.7px
-    padding-bottom: 20px
-h1
-  font-family: WorkSans-Regular
-  font-size: 26px
-  color: #252525
-  font-weight: 400
-  position: relative
-  top: 110px
-  margin-left: 30px
-
-.section.projects
-  .article
-    background-image: url(../assets/article-2.png)
-    &:nth-child(2)
-      background-image: url(../assets/article-1.png)
-    &:nth-child(3)
-      background-image: url(../assets/article-4.png)
-    &:nth-child(4)
-      background-image: url(../assets/article-3.png)
-    background-size: cover
-    width: 460px
-    height: 300px
-    display: inline-block
-    margin-right: 15px
-    transition: 100ms box-shadow
-    p
-      position: relative
-      top: -30px
-      opacity: 0.4
-    &:hover
-      cursor: pointer
-      box-shadow: 0 10px 30px 0 rgba(0,0,0,0.10)
-      p
-        opacity: 1
-
-  .dark
-    &:hover
-      box-shadow: 0 10px 30px 0 rgba(0,0,0,0.30)
-
-.section.history
-  padding-top: 100px
-  display: flex
-
+  padding-bottom: 20px
   .year
-    min-width: 280px
-    max-width: 280px
+    vertical-align: top
+    width: 300px
     display: inline-block
     white-space: normal
     padding-right: 60px
     p
+      margin-top: 0
       margin-bottom: 0
     .description
-      font-family: WorkSans-Light
-      font-size: 16px
-      color: #252525
+      font-size: 18px
+      font-weight: 300
+      color: $dark
       margin-top: 0
 
-.section::-webkit-scrollbar
-  height: 3px
+#contact
+  .logos
+    padding-top: 30px
+    div
+      display: inline-block
+      margin-right: 15px
+      padding-right: 15px
+      &:last-child
+        margin-right: 0
+        padding-right: 0
+    a
+      img
+        width: 20px
+      border: none
+      line-height: normal
+      transition: 100ms all ease
+      &:hover
+        border: none
+        line-height: normal
+        opacity: 0.5
+  .contact-links
+    height: 20px
+    a
+      font-weight: 300
+      font-family: 'Space Mono'
+      letter-spacing: 1px
+      transition: all 100ms ease
+      display: inline-block
+      line-height: 6px
+      border-bottom: 10px solid rgba($contact-color, 0.5)
+      &:hover
+        line-height: 2px
+        border-bottom: 13px solid $contact-color
+  padding-top: 50px
+  padding-bottom: 60px
+  margin-bottom: 35vh
+  margin-top: 140px
+  > div:first-child
+    margin-bottom: 30px
 
-.section::-webkit-scrollbar-thumb
-  background: #252525
-
-
-.contact
-  font-family: SpaceMono-Regular
-  float: right
-  text-align: right
-  margin-right: 30px
-  margin-bottom: 40px
-  margin-top: 100px
-  h1
-    position: static
-    font-size: 5vh
-    margin: 0
+#cv-download
+  margin-top: 40px
+  padding-bottom: 30px
+  margin-bottom: 300px
+  height: 30px
   a
+    font-family: 'Space Mono'
+    letter-spacing: 1px
+    border-bottom: 10px solid rgba($history-color, 0.5)
+    line-height: 6px
+    display: inline-block
+    &:hover
+      line-height: 2px
+      border-bottom: 13px solid $history-color
+
+.blob
+  position: fixed
+  top: 0
+  left: 10vmax
+  fill: none
+  stroke: #646464
+  stroke-width: 0.1px
+  width: 80vmax
+  z-index: -100
+  animation: move 20s linear infinite
+  transition: fill 3s ease
+  @keyframes move
+    0%
+      transform: scale(1) rotate(0deg)
+    100%
+      transform: scale(1) rotate(360deg)
+#blob2
+  animation: move 19s linear infinite
+#blob3
+  animation: move 18.5s linear infinite
+#blob4
+  animation: move 18s linear infinite
+#blob5
+  animation: move 17.5s linear infinite
+#blob6
+  animation: move 17s linear infinite
+
+@media (max-width: $mid-phone)
+  body
+    margin-left: 100px
+  .big-text
+    font-size: 30px
+  #projects
+    padding-top: 100px
+    div
+      max-width: 1000px
+      margin-right: 0
+      width: calc(100vw - 140px)
+      height: calc( (100vw - 140px) / (460/300))
+      a
+        width: calc(100vw - 140px)
+        height: calc( (100vw - 140px) / (460/300))
+
+@media (max-width: $small-phone)
+  #name
+    opacity: 0.3
+    z-index: -100
+
+  #projects
+    padding-top: 100px
+    div
+      margin-right: 0
+      width: calc(100vw - 40px)
+      height: calc( (100vw - 40px) / (460/300))
+      a
+        width: calc(100vw - 40px)
+        height: calc( (100vw - 40px) / (460/300))
+
+  body
+    font-size: 22px
+    margin-left: 20px
+
+  .big-text
+    max-width: 96vw
+    word-wrap: break-word
+    margin-bottom: 200px
+    font-size: 26px
+
+  #contact
+    margin-bottom: 130px
+
+  .contact-links
     font-size: 16px
-    font-weight: 200
+    a:hover
+      border-bottom: 10px solid rgba($contact-color, 0.5)
+
+  #history
+    .year
+      width: 70vw
+      padding-right: 36px
