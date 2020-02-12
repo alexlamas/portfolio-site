@@ -1,36 +1,31 @@
 @use 'projects'
+$pink: #ffaacc
 $dark: #252525
 $light-grey: #EAEAEF
-$project-color: #0DB19E
-$skill-color: #BF3B0B
-$history-color: #FFBFB7
-$contact-color: #FFD447
-$small-phone: 425px
-$mid-phone: 760px
+
+@font-face
+  font-family: biko
+  src: url(../fonts/biko.otf)
 
 html
   scroll-behavior: smooth
 
 body
-  font-family: 'Work Sans', sans-serif
+  font-family: biko, sans-serif
   font-weight: 400
   font-size: 18px
   color: $dark
   background-color: white
-  margin: 34vh 0 0 200px
-  max-width: 1200px
+  margin: 0
 
-a
-  white-space: nowrap
-  color: $dark
-  text-decoration: none
-  border-bottom: 10px solid rgba($project-color, 0.5)
-  transition: all 100ms ease
-  display: inline-block
-  line-height: 24px
-  &:hover
-    border-bottom: 14px solid $project-color
-    line-height: 16px
+
+#face
+  position: absolute
+  opacity: 0.1
+  max-width: 400px
+  left: calc(50vw - 200px)
+  top: calc(50vh - 221px)
+  z-index: -100
 
 p
   font-family: 'Space Mono'
@@ -42,123 +37,82 @@ p
 #contact-button
   position: fixed
   z-index: 100
-  width: 46px
-  height: 40px
-  background-color: #00000009
-  border-radius: 100px
-  text-align: center
-  padding-top: 10px
-  line-height: 1.2
-  padding-right: 3px
-  left: 10px
-  top: 10px
-  border: none
-  transition: background-color 200ms, transform 300ms ease-in-out
-  font-size: 26px
-  &:hover
-    cursor: pointer
-    background-color: #00000020
+  left: 34px
+  top: 30px
 
 #name
-  bottom: 42px
-  left: -15px
-  transform: rotate(-90deg)
-  font-family: 'Space Mono'
   position: fixed
-  font-size: 40px
-  z-index: 100
-  a
-    border: none
-    color: #0000003b
-    transition: all 100ms
-    &:hover
-      color: $dark
-      cursor: pointer
+  bottom: 30px
+  left: 34px
 
-.big-text
-  max-width: 1020px
-  padding-right: 20px
-  margin-bottom: 180px
+h1
+  font-weight: 400
   font-size: 50px
-  .purple
-    color: $skill-color
+  font-family: biko
+
+.hero
+  height: calc(50vh)
+  h1
+    margin-top: calc(50vh - 50px)
+    line-height: 1.1
+    img
+      width: 0
+    mark
+      white-space: nowrap
 
 #projects
+  max-width: calc(100vw - 220px)
+  margin: auto
   display: flex
   flex-wrap: wrap
-  padding-top: 100px
+  justify-content: space-between
+  padding-top: 160px
   margin-bottom: 230px
   div
-    margin-right: 60px
     margin-bottom: 70px
-    outline: 8px solid transparent
-    max-width: 520px
-    height: 340px
+    width: 48%
     a
-      width: 520px
-      height: 340px
-      transition: outline 100ms ease
-      outline: 3px solid white
-      border: none
-      background-size: cover
-      background-image: url(../assets/console.png)
-      &:hover
-        border: none
-        cursor: pointer
-        outline: 8px solid $project-color
+      img
+        width: 100%
+        outline: 2px solid $light-grey
+        &:hover
+          border: none
+          cursor: pointer
+          outline: 2px solid $pink
       &:active
-        opacity: 0.8
-    &:nth-child(2)
-      a
-        background-image: url(../assets/soundx.png)
-    &:nth-child(3)
-      a
-        background-image: url(../assets/dictionary.png)
-    &:nth-child(4)
-      a
-        background-image: url(../assets/lowtech.png)
+        opacity: 0.7
   .coming
     a
-      &:hover
-        outline: 3px solid white
-        cursor: default
-    p::after
-      color: white
-      content: 'COMING SOON'
-      float: right
-      background-color: $project-color
-      padding: 0 8px
+      img
+        outline: 2px solid rgba($light-grey, 0.5)
+        &:hover
+          outline: 2px solid $light-grey
+          cursor: default
+    p
+      color: rgba($dark,0.2)
   p
-    color: rgba($dark, 0.6)
     user-select: none
     padding-bottom: 2px
 
 #skills
-  margin-bottom: 300px
+  margin-bottom: 60px
 
 #history
-  &::-webkit-scrollbar
-    height: 3px
-    opacity: 0.8
-  &::-webkit-scrollbar-thumb
-    background: #0000001f
-  white-space: nowrap
-  overflow-x: scroll
   padding-bottom: 20px
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
   .year
-    vertical-align: top
-    width: 300px
-    display: inline-block
-    white-space: normal
-    padding-right: 60px
+    width: 310px
+    padding-bottom: 90px
     p
       margin-top: 0
       margin-bottom: 0
     .description
       font-size: 18px
-      font-weight: 300
       color: $dark
       margin-top: 0
+      line-height: 24px
 
 #contact
   .logos
@@ -175,7 +129,6 @@ p
         width: 20px
       border: none
       line-height: normal
-      transition: 100ms all ease
       &:hover
         border: none
         line-height: normal
@@ -188,67 +141,78 @@ p
       letter-spacing: 1px
       transition: all 100ms ease
       display: inline-block
-      line-height: 6px
-      border-bottom: 10px solid rgba($contact-color, 0.5)
-      &:hover
-        line-height: 2px
-        border-bottom: 13px solid $contact-color
   padding-top: 50px
   padding-bottom: 60px
   margin-bottom: 35vh
   margin-top: 140px
   > div:first-child
     margin-bottom: 30px
-
+.container
+  max-width: 840px
+  margin: auto
 #cv-download
-  margin-top: 40px
-  padding-bottom: 30px
   margin-bottom: 300px
-  height: 30px
+
+.pink-button
   a
     font-family: 'Space Mono'
-    letter-spacing: 1px
-    border-bottom: 10px solid rgba($history-color, 0.5)
-    line-height: 6px
-    display: inline-block
-    &:hover
-      line-height: 2px
-      border-bottom: 13px solid $history-color
-
-.blob
-  position: fixed
-  top: 0
-  left: 10vmax
-  fill: none
-  stroke: #646464
-  stroke-width: 0.1px
-  width: 80vmax
-  z-index: -100
-  animation: move 20s linear infinite
-  transition: fill 3s ease
-  @keyframes move
-    0%
-      transform: scale(1) rotate(0deg)
-    100%
-      transform: scale(1) rotate(360deg)
-#blob2
-  animation: move 19s linear infinite
-#blob3
-  animation: move 18.5s linear infinite
-#blob4
-  animation: move 18s linear infinite
-#blob5
-  animation: move 17.5s linear infinite
-#blob6
-  animation: move 17s linear infinite
-
-@media (max-width: $mid-phone)
-  body
-    margin-left: 100px
-  .big-text
+    text-decoration: none
+    img
+      width: 0
+      position: relative
+      top: 6px
+      left: 6px
+      transition: 0.1s width
+    mark
+      background-color: rgba($pink, 0.6)
+      transition: 0.1s background-color
+      &:hover
+        background-color: rgba($pink, 1)
+    mark:hover + img
+      width: 14px
+a.big-button
+  font-family: 'biko'
+  white-space: nowrap
+  img
+    top: 12px
+    left: 8px
+.mobile-only
+  display: none
+@media (max-width: 1024px)
+  .container
+    max-width: calc(100vw - 220px)
+  .hero.container
+    width: 570px
+@media (max-width: 875px)
+  .hero.container
+    width: 350px
+  #contact-button
+    left: 20px
+    top: 20px
+  #name
+    bottom: 20px
+    left: 20px
+  .container
+    max-width: calc(100vw - 160px)
+  #face
+    width: 200px
+    left: calc(50vw - 100px)
+    top: calc(50vh - 140px)
+  #contact, .hero, #cv-download
+    a
+      img
+        width: 14px
+  .pink-button
+    a
+      img
+        top: 7px
+        left: 4px
+  h1
     font-size: 30px
   #projects
     padding-top: 100px
+    display: flex
+    justify-content: space-between
     div
       max-width: 1000px
       margin-right: 0
@@ -257,14 +221,27 @@ p
       a
         width: calc(100vw - 140px)
         height: calc( (100vw - 140px) / (460/300))
-
-@media (max-width: $small-phone)
+  .contact-links, #cv-download
+    font-size: 16px
+    a
+      img
+        top: 6px
+        left: 6px
+@media (max-width: 415px)
+  .mobile-only
+    display: inline
+  .container
+    max-width: calc(100vw - 68px)
+  .hero
+    h1
+      margin-top: calc(50vh - 80px)
   #name
     opacity: 0.3
     z-index: -100
 
   #projects
     padding-top: 100px
+    max-width: calc(100vw - 68px)
     div
       margin-right: 0
       width: calc(100vw - 40px)
@@ -275,23 +252,8 @@ p
 
   body
     font-size: 22px
-    margin-left: 20px
-
-  .big-text
-    max-width: 96vw
-    word-wrap: break-word
-    margin-bottom: 200px
+  h1
     font-size: 26px
 
   #contact
     margin-bottom: 130px
-
-  .contact-links
-    font-size: 16px
-    a:hover
-      border-bottom: 10px solid rgba($contact-color, 0.5)
-
-  #history
-    .year
-      width: 70vw
-      padding-right: 36px

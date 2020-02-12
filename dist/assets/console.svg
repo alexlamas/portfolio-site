@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1092px" height="694px" viewBox="0 0 1092 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1016" height="543" rx="8"></rect>
+        <filter x="-4.1%" y="-7.2%" width="108.3%" height="115.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="325" height="691"></rect>
+        <filter x="-1.2%" y="-0.7%" width="103.1%" height="101.4%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.368627451   0 0 0 0 0.360784314   0 0 0 0 0.443137255  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M5.1277704,-2.07168062e-16 L22.8722296,2.07168062e-16 C24.6552671,-1.2037061e-16 25.3018396,0.185651222 25.9536914,0.534265408 C26.6055433,0.882879593 27.1171204,1.39445674 27.4657346,2.04630859 C27.8143488,2.69816044 28,3.34473292 28,5.1277704 L28,20.8722296 C28,22.6552671 27.8143488,23.3018396 27.4657346,23.9536914 C27.1171204,24.6055433 26.6055433,25.1171204 25.9536914,25.4657346 C25.3018396,25.8143488 24.6552671,26 22.8722296,26 L5.1277704,26 C3.34473292,26 2.69816044,25.8143488 2.04630859,25.4657346 C1.39445674,25.1171204 0.882879593,24.6055433 0.534265408,23.9536914 C0.185651222,23.3018396 8.02470732e-17,22.6552671 -1.38112041e-16,20.8722296 L1.38112041e-16,5.1277704 C-8.02470732e-17,3.34473292 0.185651222,2.69816044 0.534265408,2.04630859 C0.882879593,1.39445674 1.39445674,0.882879593 2.04630859,0.534265408 C2.69816044,0.185651222 3.34473292,1.2037061e-16 5.1277704,-2.07168062e-16 Z" id="path-6"></path>
+        <circle id="path-8" cx="21" cy="9" r="8"></circle>
+        <filter x="-18.8%" y="-18.8%" width="137.5%" height="137.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.160212862 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M5.1277704,-2.07168062e-16 L72.8722296,2.07168062e-16 C74.6552671,-1.2037061e-16 75.3018396,0.185651222 75.9536914,0.534265408 C76.6055433,0.882879593 77.1171204,1.39445674 77.4657346,2.04630859 C77.8143488,2.69816044 78,3.34473292 78,5.1277704 L78,20.8722296 C78,22.6552671 77.8143488,23.3018396 77.4657346,23.9536914 C77.1171204,24.6055433 76.6055433,25.1171204 75.9536914,25.4657346 C75.3018396,25.8143488 74.6552671,26 72.8722296,26 L5.1277704,26 C3.34473292,26 2.69816044,25.8143488 2.04630859,25.4657346 C1.39445674,25.1171204 0.882879593,24.6055433 0.534265408,23.9536914 C0.185651222,23.3018396 8.02470732e-17,22.6552671 -1.38112041e-16,20.8722296 L1.38112041e-16,5.1277704 C-8.02470732e-17,3.34473292 0.185651222,2.69816044 0.534265408,2.04630859 C0.882879593,1.39445674 1.39445674,0.882879593 2.04630859,0.534265408 C2.69816044,0.185651222 3.34473292,1.2037061e-16 5.1277704,-2.07168062e-16 Z" id="path-10"></path>
+        <rect id="path-12" x="0" y="0" width="111" height="20" rx="3"></rect>
+        <rect id="path-14" x="0" y="0" width="111" height="20" rx="3"></rect>
+        <rect id="path-16" x="0" y="0" width="111" height="20" rx="3"></rect>
+        <rect id="path-18" x="0" y="0" width="111" height="20" rx="3"></rect>
+        <rect id="path-20" x="0" y="0" width="111" height="20" rx="3"></rect>
+        <path d="M0.5,1.424443 L0.5,142.5 C0.5,143.052285 0.94771525,143.5 1.5,143.5 L293.991086,143.5 C294.543371,143.5 294.991086,143.052285 294.991086,142.5 L294.991086,1.424443 C294.991086,0.87215825 294.543371,0.424443 293.991086,0.424443 L1.5,0.424443 C0.94771525,0.424443 0.5,0.87215825 0.5,1.424443 Z" id="path-22"></path>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-24">
+            <stop stop-color="#EEF3F4" offset="0%"></stop>
+            <stop stop-color="#46828B" stop-opacity="0.783372962" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.5,1.424443 L0.5,142.5 C0.5,143.052285 0.94771525,143.5 1.5,143.5 L293.991086,143.5 C294.543371,143.5 294.991086,143.052285 294.991086,142.5 L294.991086,1.424443 C294.991086,0.87215825 294.543371,0.424443 293.991086,0.424443 L1.5,0.424443 C0.94771525,0.424443 0.5,0.87215825 0.5,1.424443 Z" id="path-25"></path>
+        <path d="M0.5,1.424443 L0.5,142.5 C0.5,143.052285 0.94771525,143.5 1.5,143.5 L293.991086,143.5 C294.543371,143.5 294.991086,143.052285 294.991086,142.5 L294.991086,1.424443 C294.991086,0.87215825 294.543371,0.424443 293.991086,0.424443 L1.5,0.424443 C0.94771525,0.424443 0.5,0.87215825 0.5,1.424443 Z" id="path-27"></path>
+        <path d="M0.5,1.424443 L0.5,142.5 C0.5,143.052285 0.94771525,143.5 1.5,143.5 L293.991086,143.5 C294.543371,143.5 294.991086,143.052285 294.991086,142.5 L294.991086,1.424443 C294.991086,0.87215825 294.543371,0.424443 293.991086,0.424443 L1.5,0.424443 C0.94771525,0.424443 0.5,0.87215825 0.5,1.424443 Z" id="path-29"></path>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1092" height="694"></rect>
+        <g id="Group-11" transform="translate(38.000000, 76.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-2-Copy" mask="url(#mask-2)">
+                <g transform="translate(-37.000000, -49.000000)">
+                    <g id="Hide" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(324.000000, 75.000000)">
+                        <path d="M0.326317344,0.25 L0.326317344,25.75 L14.8263173,25.75 L14.8263173,0.25 L0.326317344,0.25 Z" id="Rectangle-Copy-2" stroke="#E5E5E5" stroke-width="0.5" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <g id="icon-triangle" opacity="0.5" transform="translate(7.000000, 13.000000) scale(-1, 1) rotate(-90.000000) translate(-7.000000, -13.000000) translate(3.000000, 11.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                    </g>
+                    <g id=".sidebar" fill="none">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="control.reset" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 115.000000)">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Rectangle-9" fill="#3A3941" xlink:href="#path-6"></use>
+                        <g id="reset.icon" mask="url(#mask-7)" fill-rule="nonzero">
+                            <g transform="translate(9.000000, 8.000000)" id="reset">
+                                <g transform="translate(0.500000, 0.500000)">
+                                    <path d="M0.195648405,1.13972909 L7.85229271,8.80139124 C8.11270916,9.06197835 8.53364257,9.06665715 8.79978697,8.81192292 L8.79978697,8.81192292 C9.05876522,8.56404761 9.06776592,8.15316162 8.81989061,7.89418337 C8.8167405,7.89089216 8.81355583,7.8876342 8.81033712,7.88441004 L1.13351741,0.194586433 C0.874898951,-0.0644701073 0.455240445,-0.0648252401 0.196183905,0.193793222 C0.195447812,0.194528069 0.194713451,0.195264649 0.193980826,0.196002953 L0.193980826,0.196002953 C-0.0653892757,0.457383998 -0.064643803,0.879266294 0.195648405,1.13972909 Z" id="Path-4" fill="#FFFFFF"></path>
+                                    <path d="M0.195648405,1.13972909 L7.85229271,8.80139124 C8.11270916,9.06197835 8.53364257,9.06665715 8.79978697,8.81192292 L8.79978697,8.81192292 C9.05876522,8.56404761 9.06776592,8.15316162 8.81989061,7.89418337 C8.8167405,7.89089216 8.81355583,7.8876342 8.81033712,7.88441004 L1.13351741,0.194586433 C0.874898951,-0.0644701073 0.455240445,-0.0648252401 0.196183905,0.193793222 C0.195447812,0.194528069 0.194713451,0.195264649 0.193980826,0.196002953 L0.193980826,0.196002953 C-0.0653892757,0.457383998 -0.064643803,0.879266294 0.195648405,1.13972909 Z" id="Path-4-Copy" fill="#FFFFFF" transform="translate(4.500000, 4.500000) rotate(-90.000000) translate(-4.500000, -4.500000) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-3-Copy-3" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(280.000000, 256.000000)">
+                        <path d="M9,0 L20,0 C24.9705627,-9.13077564e-16 29,4.02943725 29,9 L29,9 C29,13.9705627 24.9705627,18 20,18 L9,18 C4.02943725,18 6.08718376e-16,13.9705627 0,9 L0,9 C-6.08718376e-16,4.02943725 4.02943725,9.13077564e-16 9,0 Z" id="Rectangle-4" fill="#E2E2E2"></path>
+                        <g id="Oval" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            <use fill="#3A3941" xlink:href="#path-8"></use>
+                        </g>
+                    </g>
+                    <g id="Group-23" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(94.000000, 115.000000)">
+                        <mask id="mask-11" fill="white">
+                            <use xlink:href="#path-10"></use>
+                        </mask>
+                        <use id="Rectangle-9" fill="#3A3941" xlink:href="#path-10"></use>
+                        <text id="Run" mask="url(#mask-11)" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" fill="#FFFFFF">
+                            <tspan x="20" y="17">Run</tspan>
+                        </text>
+                        <g id="icon.toend" mask="url(#mask-11)">
+                            <g transform="translate(47.000000, 9.000000)" id="run">
+                                <g>
+                                    <g id="Group" transform="translate(0.600000, 0.300000)" fill="#FFFFFF">
+                                        <path d="M0.284035522,1.22276043 L4.57506754,4.1519412 L0.312743288,7.04779439 C-0.00399780595,7.26299052 -0.0863162595,7.69421085 0.128879875,8.01095194 C0.129280353,8.01154139 0.12968174,8.01213023 0.130084034,8.01271844 L0.130084034,8.01271844 C0.347320594,8.33035142 0.780242157,8.41301839 1.09923153,8.1977785 L5.86715139,4.98059754 C6.32496373,4.67168606 6.44567174,4.05013359 6.13676026,3.59232125 C6.06507417,3.48608118 5.97363397,3.39461168 5.86741686,3.32289157 L1.13360935,0.126521098 C0.811106948,-0.091239583 0.374969069,-0.0214304524 0.136547905,0.286112814 L0.136547905,0.286112814 C-0.0837646389,0.570297482 -0.0319860518,0.979273279 0.252198616,1.19958582 C0.262574831,1.20762992 0.273191988,1.21535833 0.284035522,1.22276043 Z" id="Path-4-Copy" fill-rule="nonzero"></path>
+                                        <rect id="Rectangle-4" fill-rule="nonzero" x="6.9" y="0" width="1.4" height="8.3" rx="0.7"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M181,115 L305.076317,115 C307.285456,115 309.076317,116.790861 309.076317,119 L309.076317,137 C309.076317,139.209139 307.285456,141 305.076317,141 L181,141 C178.790861,141 177,139.209139 177,137 L177,119 C177,116.790861 178.790861,115 181,115 Z" id="Rectangle" fill="#F1F1F1" fill-rule="nonzero"></path>
+                    <path d="M181,115 L292,115 L292,141 L181,141 C178.790861,141 177,139.209139 177,137 L177,119 C177,116.790861 178.790861,115 181,115 Z" id="Rectangle-Copy" fill="#AEAEAE" fill-rule="nonzero" opacity="0.277436756"></path>
+                    <text id="23%" fill="none" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500">
+                        <tspan x="275" y="132" fill="#323232">23%</tspan>
+                    </text>
+                    <text id="Progress:" fill="none" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14">
+                        <tspan x="184" y="131" fill="#7F7F7F">Progress:</tspan>
+                    </text>
+                    <g id=".input.header" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 367.000000)">
+                        <g id="icon-triangle" transform="translate(240.000000, 8.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                        <text id="Inputs" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="0" y="14">Inputs</tspan>
+                        </text>
+                    </g>
+                    <g id=".constant.header" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 324.000000)">
+                        <g id="icon-triangle" transform="translate(244.000000, 10.000000) scale(-1, 1) rotate(-90.000000) translate(-244.000000, -10.000000) translate(240.000000, 8.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                        <text id="Constants" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="0" y="14">Constants</tspan>
+                        </text>
+                    </g>
+                    <g id=".setting" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 280.000000)">
+                        <text id="Number-of-runs" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Number of runs</tspan>
+                        </text>
+                        <g id="Group-15" transform="translate(137.000000, 0.000000)">
+                            <g id="Group-28">
+                                <mask id="mask-13" fill="white">
+                                    <use xlink:href="#path-12"></use>
+                                </mask>
+                                <rect stroke="#979797" stroke-width="0.5" x="-0.25" y="-0.25" width="111.5" height="20.5" rx="3"></rect>
+                                <text id="10" mask="url(#mask-13)" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#333333">
+                                    <tspan x="6.08" y="14">10</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <g id=".setting" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 256.000000)" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal">
+                        <text id="Batch-mode" fill="#333333">
+                            <tspan x="0" y="14">Batch mode</tspan>
+                        </text>
+                    </g>
+                    <g id=".setting" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 178.000000)">
+                        <text id="Step-size" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Step size</tspan>
+                        </text>
+                        <g id="Group-31" transform="translate(137.000000, 0.000000)">
+                            <text id="10" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="6" y="14">10</tspan>
+                            </text>
+                            <text id="ticks" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" fill="#333333">
+                                <tspan x="80" y="14">ticks</tspan>
+                            </text>
+                            <mask id="mask-15" fill="white">
+                                <use xlink:href="#path-14"></use>
+                            </mask>
+                            <rect stroke="#979797" stroke-width="0.5" x="-0.25" y="-0.25" width="111.5" height="20.5" rx="3"></rect>
+                            <path d="M73.25,20.45 L73.25,-0.45" id="Line" stroke="#D0D0D0" stroke-width="0.5" stroke-linecap="square" fill-rule="nonzero" mask="url(#mask-15)"></path>
+                        </g>
+                    </g>
+                    <g id=".setting" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 204.000000)">
+                        <text id="Model-length" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Model length</tspan>
+                        </text>
+                        <g id="Group-30" transform="translate(137.000000, 0.000000)">
+                            <text id="1000" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="6" y="14">1000</tspan>
+                            </text>
+                            <text id="100012983719283" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="6" y="40">100012983719283</tspan>
+                            </text>
+                            <text id="ticks" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" fill="#333333">
+                                <tspan x="80" y="14">ticks</tspan>
+                            </text>
+                            <mask id="mask-17" fill="white">
+                                <use xlink:href="#path-16"></use>
+                            </mask>
+                            <rect stroke="#979797" stroke-width="0.5" x="-0.25" y="-0.25" width="111.5" height="20.5" rx="3"></rect>
+                            <path d="M73.25,20.45 L73.25,-0.45" id="Line" stroke="#D0D0D0" stroke-width="0.5" stroke-linecap="square" fill-rule="nonzero" mask="url(#mask-17)"></path>
+                        </g>
+                    </g>
+                    <g id=".setting-copy" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 230.000000)">
+                        <text id="Run-seed" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Run seed</tspan>
+                        </text>
+                        <g id="Group-30" transform="translate(137.000000, 0.000000)">
+                            <mask id="mask-19" fill="white">
+                                <use xlink:href="#path-18"></use>
+                            </mask>
+                            <rect stroke="#979797" stroke-width="0.5" x="-0.25" y="-0.25" width="111.5" height="20.5" rx="3"></rect>
+                        </g>
+                    </g>
+                    <g id=".setting-copy-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 391.000000)">
+                        <text id="Income-volatility" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="0" y="15">Income volatility</tspan>
+                        </text>
+                        <g id="Group-27" transform="translate(137.000000, 0.000000)">
+                            <text id="2.50" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#333333">
+                                <tspan x="6" y="14">2.50</tspan>
+                            </text>
+                            <text id="%" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" fill="#333333">
+                                <tspan x="93" y="14">%</tspan>
+                            </text>
+                            <mask id="mask-21" fill="white">
+                                <use xlink:href="#path-20"></use>
+                            </mask>
+                            <rect stroke="#979797" stroke-width="0.5" x="-0.25" y="-0.25" width="111.5" height="20.5" rx="3"></rect>
+                            <path d="M83.25,20.45 L83.25,-0.45" id="Line" stroke="#D0D0D0" stroke-width="0.5" stroke-linecap="square" fill-rule="nonzero" mask="url(#mask-21)"></path>
+                        </g>
+                    </g>
+                    <g id=".setting.header" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 154.000000)">
+                        <g id="icon-triangle" transform="translate(244.000000, 10.000000) scale(-1, 1) translate(-244.000000, -10.000000) translate(240.000000, 8.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                        <text id="Settings" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="0" y="14">Settings</tspan>
+                        </text>
+                    </g>
+                    <g id="head.model" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(96.000000, 77.000000)">
+                        <text id="Mortgage-Model" font-family="AvenirNext-DemiBold, Avenir Next" font-size="16" font-weight="500" fill="#333333">
+                            <tspan x="0" y="16">Mortgage Model</tspan>
+                        </text>
+                        <g id="icon-triangle" transform="translate(135.000000, 12.000000) scale(-1, 1) translate(-135.000000, -12.000000) translate(131.000000, 10.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                    </g>
+                    <g id="head.logo" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(61.000000, 77.000000)">
+                        <path d="M16.0097561,5.1815396 C16.0097561,5.66367902 15.5981707,6.05709546 15.095122,6.05709546 L10.0908537,6.05709546 C9.58780488,6.05709546 9.17621951,5.66367902 9.17621951,5.1815396 L9.17621951,1.12654854 C9.17621951,0.644992819 9.58780488,0.250992681 10.0908537,0.250992681 L15.095122,0.250992681 C15.5981707,0.250992681 16.0097561,0.644992819 16.0097561,1.12654854 L16.0097561,5.1815396" id="Fill-9" fill="#333333"></path>
+                        <path d="M16.0097561,12.7930386 C16.0097561,13.2745943 15.5981707,13.6685944 15.095122,13.6685944 L10.0908537,13.6685944 C9.58780488,13.6685944 9.17621951,13.2745943 9.17621951,12.7930386 L9.17621951,8.73804751 C9.17621951,8.25649179 9.58780488,7.86249165 10.0908537,7.86249165 L15.095122,7.86249165 C15.5981707,7.86249165 16.0097561,8.25649179 16.0097561,8.73804751 L16.0097561,12.7930386" id="Fill-10" fill="#333333"></path>
+                        <path d="M16.0097561,20.4045375 C16.0097561,20.8860933 15.5981707,21.2800934 15.095122,21.2800934 L10.0908537,21.2800934 C9.58780488,21.2800934 9.17621951,20.8860933 9.17621951,20.4045375 L9.17621951,16.3495465 C9.17621951,15.8679908 9.58780488,15.4739906 10.0908537,15.4739906 L15.095122,15.4739906 C15.5981707,15.4739906 16.0097561,15.8679908 16.0097561,16.3495465 L16.0097561,20.4045375" id="Fill-11" fill="#333333"></path>
+                        <path d="M24.7359756,12.7930386 C24.7359756,13.2745943 24.3243902,13.6685944 23.8213415,13.6685944 L18.8170732,13.6685944 C18.3140244,13.6685944 17.902439,13.2745943 17.902439,12.7930386 L17.902439,8.73804751 C17.902439,8.25649179 18.3140244,7.86249165 18.8170732,7.86249165 L23.8213415,7.86249165 C24.3243902,7.86249165 24.7359756,8.25649179 24.7359756,8.73804751 L24.7359756,12.7930386" id="Fill-12" fill="#333333"></path>
+                        <path d="M7.28353659,12.7930386 C7.28353659,13.2745943 6.87195122,13.6685944 6.36890244,13.6685944 L1.36402439,13.6685944 C0.861585366,13.6685944 0.449390244,13.2745943 0.449390244,12.7930386 L0.449390244,8.73804751 C0.449390244,8.25649179 0.861585366,7.86249165 1.36402439,7.86249165 L6.36890244,7.86249165 C6.87195122,7.86249165 7.28353659,8.25649179 7.28353659,8.73804751 L7.28353659,12.7930386" id="Fill-13" fill="#333333"></path>
+                        <path d="M3.48231707,0.250992681 L6.36890244,0.250992681 C6.62012195,0.250992681 6.84878049,0.349638641 7.01463415,0.508406104 C7.1804878,0.667173567 7.28353659,0.886062533 7.28353659,1.12654854 L7.28353659,5.1815396 C7.28353659,5.42260931 7.1804878,5.64149828 7.01463415,5.80026574 C6.84878049,5.9590332 6.62012195,6.05709546 6.36890244,6.05709546 L1.36402439,6.05709546 C1.11280488,6.05709546 0.884146341,5.9590332 0.718292683,5.80026574 C0.552439024,5.64149828 0.449390244,5.42260931 0.449390244,5.1815396 L0.449390244,3.15433592 C0.449390244,1.55090128 1.80731707,0.250992681 3.48231707,0.250992681" id="Fill-14" fill="#333333"></path>
+                        <path d="M3.48231707,15.4739906 L6.36890244,15.4739906 C6.62012195,15.4739906 6.84878049,15.5726366 7.01463415,15.731404 C7.1804878,15.8895878 7.28353659,16.1084768 7.28353659,16.3495465 L7.28353659,20.4045375 C7.28353659,20.6456072 7.1804878,20.8644962 7.01463415,21.0232637 C6.84878049,21.1820311 6.62012195,21.2800934 6.36890244,21.2800934 L1.36402439,21.2800934 C1.11280488,21.2800934 0.884146341,21.1820311 0.718292683,21.0232637 C0.552439024,20.8644962 0.449390244,20.6456072 0.449390244,20.4045375 L0.449390244,18.3767502 C0.449390244,16.7738992 1.80731707,15.4739906 3.48231707,15.4739906" id="Fill-15" fill="#333333"></path>
+                        <path d="M21.7036585,21.2800934 L18.8170732,21.2800934 C18.5652439,21.2800934 18.3365854,21.1820311 18.1713415,21.0232637 C18.0054878,20.8644962 17.902439,20.6456072 17.902439,20.4045375 L17.902439,16.3495465 C17.902439,16.1084768 18.0054878,15.8895878 18.1713415,15.731404 C18.3365854,15.5726366 18.5652439,15.4739906 18.8170732,15.4739906 L23.8213415,15.4739906 C24.0731707,15.4739906 24.3018293,15.5726366 24.4676829,15.731404 C24.6329268,15.8895878 24.7359756,16.1084768 24.7359756,16.3495465 L24.7359756,18.3767502 C24.7359756,19.9801848 23.3780488,21.2800934 21.7036585,21.2800934" id="Fill-16" fill="#333333"></path>
+                        <path d="M21.7036585,6.05709546 L18.8170732,6.05709546 C18.5652439,6.05709546 18.3365854,5.9590332 18.1713415,5.80026574 C18.0054878,5.64149828 17.902439,5.42260931 17.902439,5.1815396 L17.902439,1.12654854 C17.902439,0.886062533 18.0054878,0.667173567 18.1713415,0.508406104 C18.3365854,0.349638641 18.5652439,0.250992681 18.8170732,0.250992681 L23.8213415,0.250992681 C24.0731707,0.250992681 24.3018293,0.349638641 24.4676829,0.508406104 C24.6329268,0.667173567 24.7359756,0.886062533 24.7359756,1.12654854 L24.7359756,3.15433592 C24.7359756,4.75777056 23.3780488,6.05709546 21.7036585,6.05709546" id="Fill-17" fill="#333333"></path>
+                    </g>
+                    <g id="View" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(904.000000, 75.000000)">
+                        <path d="M39.409713,-2.58960077e-16 L113.590287,2.58960077e-16 C115.819084,-1.50463262e-16 116.627299,0.232064028 117.442114,0.667831759 C118.256929,1.10359949 118.896401,1.74307093 119.332168,2.55788574 C119.767936,3.37270056 120,4.18091615 120,6.409713 L120,19.590287 C120,21.8190838 119.767936,22.6272994 119.332168,23.4421143 C118.896401,24.2569291 118.256929,24.8964005 117.442114,25.3321682 C116.627299,25.767936 115.819084,26 113.590287,26 L39.409713,26 C37.1809162,26 36.3727006,25.767936 35.5578857,25.3321682 C34.7430709,24.8964005 34.1035995,24.2569291 33.6678318,23.4421143 C33.232064,22.6272994 33,21.8190838 33,19.590287 L33,6.409713 C33,4.18091615 33.232064,3.37270056 33.6678318,2.55788574 C34.1035995,1.74307093 34.7430709,1.10359949 35.5578857,0.667831759 C36.3727006,0.232064028 37.1809162,1.50463262e-16 39.409713,-2.58960077e-16 Z" id="background" fill="#F9F9F9"></path>
+                        <g id="variables" transform="translate(39.000000, 6.000000)" fill="#434343" fill-rule="nonzero">
+                            <path d="M14.9961131,1.41122169 L10.0482116,7.67536317 C9.70588383,8.10875692 9.07703729,8.18258049 8.64364354,7.84025272 C8.62092719,7.82230959 8.59900067,7.80338853 8.57792595,7.78354301 L6.24288045,5.58469072 C5.43873276,4.82744552 4.17297374,4.86546751 3.41572855,5.66961519 C3.41354088,5.67193837 3.41135877,5.67426678 3.40918224,5.6766004 L3.33066907e-16,9.33184041 L0,1.5 C-6.76353751e-17,0.94771525 0.44771525,0.5 1,0.5 L14,0.5 C14.5223669,0.5 14.9511868,0.900522712 14.9961131,1.41122169 Z M15,3.7578455 L15,12.5 C15,13.0522847 14.5522847,13.5 14,13.5 L1,13.5 C0.44771525,13.5 6.76353751e-17,13.0522847 0,12.5 L0,11.5913265 L4.11213333,7.10097149 C4.48212923,6.69694448 5.10833396,6.66584133 5.51654547,7.03121532 L7.93501407,9.19589098 C8.75805252,9.93256016 10.0224454,9.86254404 10.7591146,9.0395056 C10.7831143,9.01269204 10.806386,8.98523564 10.8289043,8.95716638 L15,3.7578455 Z"></path>
+                        </g>
+                        <g id="network" opacity="0.400000006" transform="translate(70.000000, 6.000000)" fill="#434343" fill-rule="nonzero">
+                            <path d="M8.55055385,6.12724687 L5.6509195,9.09422292 C5.87375124,9.51355112 6,9.99203207 6,10.5 C6,12.1568542 4.65685425,13.5 3,13.5 C1.34314575,13.5 2.02906125e-16,12.1568542 0,10.5 C-2.02906125e-16,8.84314575 1.34314575,7.5 3,7.5 C3.60098167,7.5 4.16068901,7.67671645 4.62999383,7.98102118 L7.45836212,5.09450601 C7.16796169,4.63258221 7,4.08590588 7,3.5 C7,1.84314575 8.34314575,0.5 10,0.5 C11.6568542,0.5 13,1.84314575 13,3.5 C13,5.15685425 11.6568542,6.5 10,6.5 C9.474311,6.5 8.98020223,6.36478891 8.55055385,6.12724687 Z"></path>
+                        </g>
+                        <g id="agents" opacity="0.400000006" transform="translate(99.000000, 7.000000)" fill="#434343" fill-rule="nonzero">
+                            <path d="M1.25,0.3 L14.75,0.3 C15.1642136,0.3 15.5,0.635786438 15.5,1.05 C15.5,1.46421356 15.1642136,1.8 14.75,1.8 L1.25,1.8 C0.835786438,1.8 0.5,1.46421356 0.5,1.05 C0.5,0.635786438 0.835786438,0.3 1.25,0.3 Z M1.25,3.56666667 L14.75,3.56666667 C15.1642136,3.56666667 15.5,3.9024531 15.5,4.31666667 C15.5,4.73088023 15.1642136,5.06666667 14.75,5.06666667 L1.25,5.06666667 C0.835786438,5.06666667 0.5,4.73088023 0.5,4.31666667 C0.5,3.9024531 0.835786438,3.56666667 1.25,3.56666667 Z M1.25,6.83333333 L14.75,6.83333333 C15.1642136,6.83333333 15.5,7.16911977 15.5,7.58333333 C15.5,7.9975469 15.1642136,8.33333333 14.75,8.33333333 L1.25,8.33333333 C0.835786438,8.33333333 0.5,7.9975469 0.5,7.58333333 C0.5,7.16911977 0.835786438,6.83333333 1.25,6.83333333 Z M1.25,10.1 L14.75,10.1 C15.1642136,10.1 15.5,10.4357864 15.5,10.85 C15.5,11.2642136 15.1642136,11.6 14.75,11.6 L1.25,11.6 C0.835786438,11.6 0.5,11.2642136 0.5,10.85 C0.5,10.4357864 0.835786438,10.1 1.25,10.1 Z"></path>
+                        </g>
+                        <text id="View:" opacity="0.75999999" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#6A6A6A">
+                            <tspan x="0.97" y="17">View:</tspan>
+                        </text>
+                    </g>
+                    <g id="Tile" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(355.000000, 130.000000)">
+                        <text id="1" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="169">1</tspan>
+                        </text>
+                        <text id="2" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="102">2</tspan>
+                        </text>
+                        <text id="3" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="35">3</tspan>
+                        </text>
+                        <text id="Equity" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="11" y="14">Equity</tspan>
+                        </text>
+                        <g id="Group-2" transform="translate(262.000000, 1.000000)">
+                            <path d="M1,0 L43.8,0 C44.3522847,-1.01453063e-16 44.8,0.44771525 44.8,1 L44.8,15 C44.8,15.5522847 44.3522847,16 43.8,16 L1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-9" fill="#46828B" fill-rule="nonzero"></path>
+                            <text id="2.17-M" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">
+                                <tspan x="4.224" y="12">2.17</tspan>
+                                <tspan x="27.964" y="12" letter-spacing="-1.4"> M</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-25" transform="translate(12.000000, 27.000000)">
+                            <mask id="mask-23" fill="white">
+                                <use xlink:href="#path-22"></use>
+                            </mask>
+                            <use id="Line-3-Copy-2" stroke="#DEDEDF" stroke-width="0.5" stroke-linecap="round" xlink:href="#path-22"></use>
+                            <g id="Group-8" opacity="0.300000012" mask="url(#mask-23)" fill-rule="nonzero">
+                                <g transform="translate(0.000000, 9.000000)">
+                                    <polygon id="Rectangle-Copy-1119" fill="#FFFFFF" points="285 117 290 117 290 126 285 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1118" fill="#FFFFFF" points="280 117 285 117 285 126 280 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1117" fill="#FFFFFF" points="275 117 280 117 280 126 275 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1116" fill="#FFFFFF" points="270 117 275 117 275 126 270 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1115" fill="#FFFFFF" points="265 117 270 117 270 126 265 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1096" fill="#FFFFFF" points="170 117 175 117 175 126 170 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1095" fill="#FFFFFF" points="165 117 170 117 170 126 165 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1094" fill="#FFFFFF" points="160 117 165 117 165 126 160 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1093" fill="#FFFFFF" points="155 117 160 117 160 126 155 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1092" fill="#FFFFFF" points="150 117 155 117 155 126 150 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1091" fill="#FFFFFF" points="145 117 150 117 150 126 145 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1090" fill="#FFFFFF" points="140 117 145 117 145 126 140 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1089" fill="#FFFFFF" points="135 117 140 117 140 126 135 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1088" fill="#FFFFFF" points="130 117 135 117 135 126 130 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1087" fill="#FFFFFF" points="125 117 130 117 130 126 125 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1086" fill="#FFFFFF" points="120 117 125 117 125 126 120 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1085" fill="#FFFFFF" points="115 117 120 117 120 126 115 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1084" fill="#46828B" opacity="0.5" points="110 117 115 117 115 126 110 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1083" fill="#FFFFFF" points="105 117 110 117 110 126 105 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1082" fill="#46828B" opacity="0.699999988" points="100 117 105 117 105 126 100 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1081" fill="#FFFFFF" points="95 117 100 117 100 126 95 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1080" fill="#FFFFFF" points="90 117 95 117 95 126 90 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1079" fill="#FFFFFF" points="85 117 90 117 90 126 85 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1078" fill="#FFFFFF" points="80 117 85 117 85 126 80 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1077" fill="#FFFFFF" points="75 117 80 117 80 126 75 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1076" fill="#FFFFFF" points="70 117 75 117 75 126 70 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1075" fill="#FFFFFF" points="65 117 70 117 70 126 65 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1074" fill="#FFFFFF" points="60 117 65 117 65 126 60 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1073" fill="#FFFFFF" points="55 117 60 117 60 126 55 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1072" fill="#46828B" opacity="0.5" points="50 117 55 117 55 126 50 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1071" fill="#46828B" style="mix-blend-mode: multiply;" points="45 117 50 117 50 126 45 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1070" fill="#46828B" opacity="0.5" points="40 117 45 117 45 126 40 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1069" fill="#FFFFFF" points="35 117 40 117 40 126 35 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1068" fill="#FFFFFF" points="30 117 35 117 35 126 30 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1067" fill="#FFFFFF" points="25 117 30 117 30 126 25 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1066" fill="#FFFFFF" points="20 117 25 117 25 126 20 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1065" fill="#FFFFFF" points="15 117 20 117 20 126 15 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1064" fill="#FFFFFF" points="10 117 15 117 15 126 10 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1063" fill="#FFFFFF" points="5 117 10 117 10 126 5 126"></polygon>
+                                    <polygon id="Rectangle-Copy-1061" fill="#46828B" opacity="0.600000024" points="290 108 295 108 295 117 290 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1060" fill="#FFFFFF" points="285 108 290 108 290 117 285 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1059" fill="#FFFFFF" points="280 108 285 108 285 117 280 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1058" fill="#46828B" opacity="0.600000024" points="275 108 280 108 280 117 275 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1057" fill="#46828B" opacity="0.600000024" points="270 108 275 108 275 117 270 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1056" fill="#FFFFFF" points="265 108 270 108 270 117 265 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1055" fill="#FFFFFF" points="260 108 265 108 265 117 260 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1054" fill="#FFFFFF" points="255 108 260 108 260 117 255 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1053" fill="#FFFFFF" points="250 108 255 108 255 117 250 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1052" fill="#FFFFFF" points="245 108 250 108 250 117 245 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1051" fill="#FFFFFF" points="240 108 245 108 245 117 240 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1050" fill="#FFFFFF" points="235 108 240 108 240 117 235 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1049" fill="#FFFFFF" points="230 108 235 108 235 117 230 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1048" fill="#FFFFFF" points="225 108 230 108 230 117 225 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1047" fill="#FFFFFF" points="220 108 225 108 225 117 220 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1046" fill="#FFFFFF" points="215 108 220 108 220 117 215 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1045" fill="#FFFFFF" points="210 108 215 108 215 117 210 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1044" fill="#FFFFFF" points="205 108 210 108 210 117 205 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1043" fill="#FFFFFF" points="200 108 205 108 205 117 200 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1042" fill="#FFFFFF" points="195 108 200 108 200 117 195 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1041" fill="#FFFFFF" points="190 108 195 108 195 117 190 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1040" fill="#FFFFFF" points="185 108 190 108 190 117 185 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1039" fill="#FFFFFF" points="180 108 185 108 185 117 180 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1038" fill="#FFFFFF" points="175 108 180 108 180 117 175 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1037" fill="#FFFFFF" points="170 108 175 108 175 117 170 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1036" fill="#FFFFFF" points="165 108 170 108 170 117 165 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1035" fill="#46828B" opacity="0.600000024" points="160 108 165 108 165 117 160 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1034" fill="#46828B" opacity="0.5" points="155 108 160 108 160 117 155 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1033" fill="#FFFFFF" points="150 108 155 108 155 117 150 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1032" fill="#FFFFFF" points="145 108 150 108 150 117 145 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1031" fill="#FFFFFF" points="140 108 145 108 145 117 140 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1030" fill="#46828B" opacity="0.600000024" points="135 108 140 108 140 117 135 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1029" fill="#46828B" opacity="0.600000024" points="130 108 135 108 135 117 130 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1028" fill="#FFFFFF" points="125 108 130 108 130 117 125 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1027" fill="#FFFFFF" points="120 108 125 108 125 117 120 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1026" fill="#46828B" opacity="0.699999988" points="115 108 120 108 120 117 115 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1025" fill="#46828B" opacity="0.699999988" points="110 108 115 108 115 117 110 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1024" fill="#46828B" opacity="0.5" points="105 108 110 108 110 117 105 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1023" fill="#46828B" points="100 108 105 108 105 117 100 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1022" fill="#46828B" opacity="0.699999988" points="95 108 100 108 100 117 95 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1021" fill="#46828B" style="mix-blend-mode: multiply;" points="90 108 95 108 95 117 90 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1020" fill="#46828B" opacity="0.5" points="85 108 90 108 90 117 85 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1019" fill="#46828B" opacity="0.5" points="80 108 85 108 85 117 80 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1018" fill="#46828B" opacity="0.5" points="75 108 80 108 80 117 75 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1017" fill="#46828B" opacity="0.5" points="70 108 75 108 75 117 70 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1016" fill="#46828B" opacity="0.5" points="65 108 70 108 70 117 65 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1015" fill="#46828B" opacity="0.5" points="60 108 65 108 65 117 60 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1014" fill="#46828B" opacity="0.5" points="55 108 60 108 60 117 55 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1013" fill="#46828B" style="mix-blend-mode: multiply;" points="50 108 55 108 55 117 50 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1012" fill="#46828B" opacity="0.5" points="45 108 50 108 50 117 45 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1011" fill="#46828B" style="mix-blend-mode: multiply;" points="40 108 45 108 45 117 40 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1010" fill="#46828B" opacity="0.5" points="35 108 40 108 40 117 35 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1009" fill="#46828B" opacity="0.5" points="30 108 35 108 35 117 30 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1008" fill="#46828B" opacity="0.5" points="25 108 30 108 30 117 25 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1007" fill="#46828B" opacity="0.5" points="20 108 25 108 25 117 20 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1006" fill="#46828B" opacity="0.5" points="15 108 20 108 20 117 15 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1005" fill="#46828B" opacity="0.5" points="10 108 15 108 15 117 10 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1004" fill="#46828B" opacity="0.5" points="5 108 10 108 10 117 5 117"></polygon>
+                                    <polygon id="Rectangle-Copy-1001" fill="#46828B" opacity="0.600000024" points="285 99 290 99 290 108 285 108"></polygon>
+                                    <polygon id="Rectangle-Copy-1000" fill="#FFFFFF" points="280 99 285 99 285 108 280 108"></polygon>
+                                    <polygon id="Rectangle-Copy-999" fill="#46828B" opacity="0.600000024" points="275 99 280 99 280 108 275 108"></polygon>
+                                    <polygon id="Rectangle-Copy-998" fill="#46828B" opacity="0.300000012" points="270 99 275 99 275 108 270 108"></polygon>
+                                    <polygon id="Rectangle-Copy-997" fill="#46828B" opacity="0.600000024" points="265 99 270 99 270 108 265 108"></polygon>
+                                    <polygon id="Rectangle-Copy-996" fill="#46828B" opacity="0.600000024" points="260 99 265 99 265 108 260 108"></polygon>
+                                    <polygon id="Rectangle-Copy-995" fill="#46828B" opacity="0.600000024" points="255 99 260 99 260 108 255 108"></polygon>
+                                    <polygon id="Rectangle-Copy-994" fill="#46828B" opacity="0.600000024" points="250 99 255 99 255 108 250 108"></polygon>
+                                    <polygon id="Rectangle-Copy-993" fill="#46828B" opacity="0.600000024" points="245 99 250 99 250 108 245 108"></polygon>
+                                    <polygon id="Rectangle-Copy-992" fill="#46828B" opacity="0.600000024" points="240 99 245 99 245 108 240 108"></polygon>
+                                    <polygon id="Rectangle-Copy-991" fill="#46828B" opacity="0.600000024" points="235 99 240 99 240 108 235 108"></polygon>
+                                    <polygon id="Rectangle-Copy-990" fill="#46828B" opacity="0.600000024" points="230 99 235 99 235 108 230 108"></polygon>
+                                    <polygon id="Rectangle-Copy-989" fill="#46828B" opacity="0.600000024" points="225 99 230 99 230 108 225 108"></polygon>
+                                    <polygon id="Rectangle-Copy-988" fill="#FFFFFF" points="220 99 225 99 225 108 220 108"></polygon>
+                                    <polygon id="Rectangle-Copy-987" fill="#46828B" opacity="0.600000024" points="215 99 220 99 220 108 215 108"></polygon>
+                                    <polygon id="Rectangle-Copy-986" fill="#46828B" opacity="0.600000024" points="210 99 215 99 215 108 210 108"></polygon>
+                                    <polygon id="Rectangle-Copy-985" fill="#46828B" opacity="0.600000024" points="205 99 210 99 210 108 205 108"></polygon>
+                                    <polygon id="Rectangle-Copy-984" fill="#46828B" opacity="0.600000024" points="200 99 205 99 205 108 200 108"></polygon>
+                                    <polygon id="Rectangle-Copy-983" fill="#46828B" opacity="0.600000024" points="195 99 200 99 200 108 195 108"></polygon>
+                                    <polygon id="Rectangle-Copy-982" fill="#46828B" opacity="0.600000024" points="190 99 195 99 195 108 190 108"></polygon>
+                                    <polygon id="Rectangle-Copy-981" fill="#46828B" opacity="0.600000024" points="185 99 190 99 190 108 185 108"></polygon>
+                                    <polygon id="Rectangle-Copy-980" fill="#46828B" opacity="0.600000024" points="180 99 185 99 185 108 180 108"></polygon>
+                                    <polygon id="Rectangle-Copy-979" fill="#46828B" opacity="0.600000024" points="175 99 180 99 180 108 175 108"></polygon>
+                                    <polygon id="Rectangle-Copy-978" fill="#46828B" opacity="0.600000024" points="170 99 175 99 175 108 170 108"></polygon>
+                                    <polygon id="Rectangle-Copy-977" fill="#46828B" opacity="0.600000024" points="165 99 170 99 170 108 165 108"></polygon>
+                                    <polygon id="Rectangle-Copy-976" fill="#FFFFFF" points="160 99 165 99 165 108 160 108"></polygon>
+                                    <polygon id="Rectangle-Copy-975" fill="#46828B" opacity="0.600000024" points="155 99 160 99 160 108 155 108"></polygon>
+                                    <polygon id="Rectangle-Copy-974" fill="#46828B" opacity="0.600000024" points="150 99 155 99 155 108 150 108"></polygon>
+                                    <polygon id="Rectangle-Copy-973" fill="#46828B" opacity="0.600000024" points="145 99 150 99 150 108 145 108"></polygon>
+                                    <polygon id="Rectangle-Copy-972" fill="#46828B" opacity="0.600000024" points="140 99 145 99 145 108 140 108"></polygon>
+                                    <polygon id="Rectangle-Copy-971" fill="#FFFFFF" points="135 99 140 99 140 108 135 108"></polygon>
+                                    <polygon id="Rectangle-Copy-970" fill="#46828B" opacity="0.5" points="130 99 135 99 135 108 130 108"></polygon>
+                                    <polygon id="Rectangle-Copy-969" fill="#46828B" opacity="0.600000024" points="125 99 130 99 130 108 125 108"></polygon>
+                                    <polygon id="Rectangle-Copy-968" fill="#46828B" opacity="0.600000024" points="120 99 125 99 125 108 120 108"></polygon>
+                                    <polygon id="Rectangle-Copy-967" fill="#46828B" opacity="0.699999988" points="115 99 120 99 120 108 115 108"></polygon>
+                                    <polygon id="Rectangle-Copy-966" fill="#FFFFFF" points="110 99 115 99 115 108 110 108"></polygon>
+                                    <polygon id="Rectangle-Copy-965" fill="#46828B" opacity="0.699999988" points="105 99 110 99 110 108 105 108"></polygon>
+                                    <polygon id="Rectangle-Copy-964" fill="#46828B" points="100 99 105 99 105 108 100 108"></polygon>
+                                    <polygon id="Rectangle-Copy-963" fill="#FFFFFF" points="95 99 100 99 100 108 95 108"></polygon>
+                                    <polygon id="Rectangle-Copy-962" fill="#46828B" points="90 99 95 99 95 108 90 108"></polygon>
+                                    <polygon id="Rectangle-Copy-961" fill="#46828B" style="mix-blend-mode: multiply;" points="85 99 90 99 90 108 85 108"></polygon>
+                                    <polygon id="Rectangle-Copy-960" fill="#46828B" opacity="0.100000001" points="80 99 85 99 85 108 80 108"></polygon>
+                                    <polygon id="Rectangle-Copy-959" fill="#46828B" style="mix-blend-mode: multiply;" points="75 99 80 99 80 108 75 108"></polygon>
+                                    <polygon id="Rectangle-Copy-958" fill="#46828B" style="mix-blend-mode: multiply;" points="70 99 75 99 75 108 70 108"></polygon>
+                                    <polygon id="Rectangle-Copy-957" fill="#46828B" style="mix-blend-mode: multiply;" points="65 99 70 99 70 108 65 108"></polygon>
+                                    <polygon id="Rectangle-Copy-956" fill="#46828B" style="mix-blend-mode: multiply;" points="60 99 65 99 65 108 60 108"></polygon>
+                                    <polygon id="Rectangle-Copy-955" fill="#46828B" style="mix-blend-mode: multiply;" points="55 99 60 99 60 108 55 108"></polygon>
+                                    <polygon id="Rectangle-Copy-954" fill="#46828B" style="mix-blend-mode: multiply;" points="50 99 55 99 55 108 50 108"></polygon>
+                                    <polygon id="Rectangle-Copy-953" fill="#FFFFFF" points="45 99 50 99 50 108 45 108"></polygon>
+                                    <polygon id="Rectangle-Copy-952" fill="#46828B" opacity="0.5" points="40 99 45 99 45 108 40 108"></polygon>
+                                    <polygon id="Rectangle-Copy-951" fill="#46828B" style="mix-blend-mode: multiply;" points="35 99 40 99 40 108 35 108"></polygon>
+                                    <polygon id="Rectangle-Copy-950" fill="#46828B" opacity="0.5" points="30 99 35 99 35 108 30 108"></polygon>
+                                    <polygon id="Rectangle-Copy-949" fill="#FFFFFF" points="25 99 30 99 30 108 25 108"></polygon>
+                                    <polygon id="Rectangle-Copy-948" fill="#FFFFFF" points="20 99 25 99 25 108 20 108"></polygon>
+                                    <polygon id="Rectangle-Copy-947" fill="#FFFFFF" points="15 99 20 99 20 108 15 108"></polygon>
+                                    <polygon id="Rectangle-Copy-946" fill="#FFFFFF" points="10 99 15 99 15 108 10 108"></polygon>
+                                    <polygon id="Rectangle-Copy-945" fill="#FFFFFF" points="5 99 10 99 10 108 5 108"></polygon>
+                                    <polygon id="Rectangle-Copy-944" fill="#46828B" opacity="0.5" points="0 99 5 99 5 108 0 108"></polygon>
+                                    <polygon id="Rectangle-Copy-942" fill="#46828B" opacity="0.600000024" points="285 90 290 90 290 99 285 99"></polygon>
+                                    <polygon id="Rectangle-Copy-941" fill="#46828B" opacity="0.600000024" points="280 90 285 90 285 99 280 99"></polygon>
+                                    <polygon id="Rectangle-Copy-940" fill="#FFFFFF" points="275 90 280 90 280 99 275 99"></polygon>
+                                    <polygon id="Rectangle-Copy-939" fill="#46828B" points="270 90 275 90 275 99 270 99"></polygon>
+                                    <polygon id="Rectangle-Copy-938" fill="#46828B" points="265 90 270 90 270 99 265 99"></polygon>
+                                    <polygon id="Rectangle-Copy-937" fill="#FFFFFF" points="260 90 265 90 265 99 260 99"></polygon>
+                                    <polygon id="Rectangle-Copy-936" fill="#46828B" points="255 90 260 90 260 99 255 99"></polygon>
+                                    <polygon id="Rectangle-Copy-935" fill="#46828B" opacity="0.300000012" points="250 90 255 90 255 99 250 99"></polygon>
+                                    <polygon id="Rectangle-Copy-934" fill="#FFFFFF" points="245 90 250 90 250 99 245 99"></polygon>
+                                    <polygon id="Rectangle-Copy-933" fill="#FFFFFF" points="240 90 245 90 245 99 240 99"></polygon>
+                                    <polygon id="Rectangle-Copy-932" fill="#FFFFFF" points="235 90 240 90 240 99 235 99"></polygon>
+                                    <polygon id="Rectangle-Copy-931" fill="#FFFFFF" points="230 90 235 90 235 99 230 99"></polygon>
+                                    <polygon id="Rectangle-Copy-930" fill="#FFFFFF" points="225 90 230 90 230 99 225 99"></polygon>
+                                    <polygon id="Rectangle-Copy-929" fill="#46828B" opacity="0.600000024" points="220 90 225 90 225 99 220 99"></polygon>
+                                    <polygon id="Rectangle-Copy-928" fill="#FFFFFF" points="215 90 220 90 220 99 215 99"></polygon>
+                                    <polygon id="Rectangle-Copy-927" fill="#FFFFFF" points="210 90 215 90 215 99 210 99"></polygon>
+                                    <polygon id="Rectangle-Copy-926" fill="#FFFFFF" points="205 90 210 90 210 99 205 99"></polygon>
+                                    <polygon id="Rectangle-Copy-925" fill="#FFFFFF" points="200 90 205 90 205 99 200 99"></polygon>
+                                    <polygon id="Rectangle-Copy-924" fill="#FFFFFF" points="195 90 200 90 200 99 195 99"></polygon>
+                                    <polygon id="Rectangle-Copy-923" fill="#FFFFFF" points="190 90 195 90 195 99 190 99"></polygon>
+                                    <polygon id="Rectangle-Copy-922" fill="#FFFFFF" points="185 90 190 90 190 99 185 99"></polygon>
+                                    <polygon id="Rectangle-Copy-921" fill="#FFFFFF" points="180 90 185 90 185 99 180 99"></polygon>
+                                    <polygon id="Rectangle-Copy-920" fill="#FFFFFF" points="175 90 180 90 180 99 175 99"></polygon>
+                                    <polygon id="Rectangle-Copy-919" fill="#FFFFFF" points="170 90 175 90 175 99 170 99"></polygon>
+                                    <polygon id="Rectangle-Copy-918" fill="#FFFFFF" points="165 90 170 90 170 99 165 99"></polygon>
+                                    <polygon id="Rectangle-Copy-917" fill="#FFFFFF" points="160 90 165 90 165 99 160 99"></polygon>
+                                    <polygon id="Rectangle-Copy-916" fill="#FFFFFF" points="155 90 160 90 160 99 155 99"></polygon>
+                                    <polygon id="Rectangle-Copy-915" fill="#46828B" points="150 90 155 90 155 99 150 99"></polygon>
+                                    <polygon id="Rectangle-Copy-914" fill="#46828B" points="145 90 150 90 150 99 145 99"></polygon>
+                                    <polygon id="Rectangle-Copy-913" fill="#FFFFFF" points="140 90 145 90 145 99 140 99"></polygon>
+                                    <polygon id="Rectangle-Copy-912" fill="#FFFFFF" points="135 90 140 90 140 99 135 99"></polygon>
+                                    <polygon id="Rectangle-Copy-911" fill="#FFFFFF" points="130 90 135 90 135 99 130 99"></polygon>
+                                    <polygon id="Rectangle-Copy-910" fill="#46828B" opacity="0.5" points="125 90 130 90 130 99 125 99"></polygon>
+                                    <polygon id="Rectangle-Copy-909" fill="#FFFFFF" points="120 90 125 90 125 99 120 99"></polygon>
+                                    <polygon id="Rectangle-Copy-908" fill="#FFFFFF" points="115 90 120 90 120 99 115 99"></polygon>
+                                    <polygon id="Rectangle-Copy-907" fill="#FFFFFF" points="110 90 115 90 115 99 110 99"></polygon>
+                                    <polygon id="Rectangle-Copy-906" fill="#46828B" points="105 90 110 90 110 99 105 99"></polygon>
+                                    <polygon id="Rectangle-Copy-905" fill="#46828B" points="100 90 105 90 105 99 100 99"></polygon>
+                                    <polygon id="Rectangle-Copy-904" fill="#FFFFFF" points="95 90 100 90 100 99 95 99"></polygon>
+                                    <polygon id="Rectangle-Copy-903" fill="#46828B" points="90 90 95 90 95 99 90 99"></polygon>
+                                    <polygon id="Rectangle-Copy-902" fill="#46828B" opacity="0.800000012" points="85 90 90 90 90 99 85 99"></polygon>
+                                    <polygon id="Rectangle-Copy-901" fill="#46828B" style="mix-blend-mode: multiply;" points="80 90 85 90 85 99 80 99"></polygon>
+                                    <polygon id="Rectangle-Copy-900" fill="#46828B" style="mix-blend-mode: multiply;" points="75 90 80 90 80 99 75 99"></polygon>
+                                    <polygon id="Rectangle-Copy-899" fill="#46828B" opacity="0.5" points="70 90 75 90 75 99 70 99"></polygon>
+                                    <polygon id="Rectangle-Copy-898" fill="#FFFFFF" points="65 90 70 90 70 99 65 99"></polygon>
+                                    <polygon id="Rectangle-Copy-897" fill="#46828B" opacity="0.5" points="60 90 65 90 65 99 60 99"></polygon>
+                                    <polygon id="Rectangle-Copy-896" fill="#46828B" opacity="0.5" points="55 90 60 90 60 99 55 99"></polygon>
+                                    <polygon id="Rectangle-Copy-895" fill="#FFFFFF" points="50 90 55 90 55 99 50 99"></polygon>
+                                    <polygon id="Rectangle-Copy-894" fill="#FFFFFF" points="45 90 50 90 50 99 45 99"></polygon>
+                                    <polygon id="Rectangle-Copy-893" fill="#FFFFFF" points="40 90 45 90 45 99 40 99"></polygon>
+                                    <polygon id="Rectangle-Copy-892" fill="#46828B" opacity="0.5" points="35 90 40 90 40 99 35 99"></polygon>
+                                    <polygon id="Rectangle-Copy-891" fill="#46828B" style="mix-blend-mode: multiply;" points="30 90 35 90 35 99 30 99"></polygon>
+                                    <polygon id="Rectangle-Copy-890" fill="#46828B" style="mix-blend-mode: multiply;" points="25 90 30 90 30 99 25 99"></polygon>
+                                    <polygon id="Rectangle-Copy-889" fill="#46828B" opacity="0.5" points="20 90 25 90 25 99 20 99"></polygon>
+                                    <polygon id="Rectangle-Copy-888" fill="#46828B" opacity="0.5" points="15 90 20 90 20 99 15 99"></polygon>
+                                    <polygon id="Rectangle-Copy-887" fill="#46828B" opacity="0.5" points="10 90 15 90 15 99 10 99"></polygon>
+                                    <polygon id="Rectangle-Copy-886" fill="#FFFFFF" points="5 90 10 90 10 99 5 99"></polygon>
+                                    <polygon id="Rectangle-Copy-883" fill="#46828B" opacity="0.300000012" points="285 81 290 81 290 90 285 90"></polygon>
+                                    <polygon id="Rectangle-Copy-882" fill="#46828B" opacity="0.300000012" points="280 81 285 81 285 90 280 90"></polygon>
+                                    <polygon id="Rectangle-Copy-881" fill="#46828B" opacity="0.300000012" points="275 81 280 81 280 90 275 90"></polygon>
+                                    <polygon id="Rectangle-Copy-880" fill="#46828B" points="270 81 275 81 275 90 270 90"></polygon>
+                                    <polygon id="Rectangle-Copy-879" fill="#46828B" points="265 81 270 81 270 90 265 90"></polygon>
+                                    <polygon id="Rectangle-Copy-878" fill="#FFFFFF" points="260 81 265 81 265 90 260 90"></polygon>
+                                    <polygon id="Rectangle-Copy-877" fill="#46828B" points="255 81 260 81 260 90 255 90"></polygon>
+                                    <polygon id="Rectangle-Copy-876" fill="#46828B" points="250 81 255 81 255 90 250 90"></polygon>
+                                    <polygon id="Rectangle-Copy-875" fill="#46828B" points="245 81 250 81 250 90 245 90"></polygon>
+                                    <polygon id="Rectangle-Copy-874" fill="#FFFFFF" points="240 81 245 81 245 90 240 90"></polygon>
+                                    <polygon id="Rectangle-Copy-873" fill="#FFFFFF" points="235 81 240 81 240 90 235 90"></polygon>
+                                    <polygon id="Rectangle-Copy-872" fill="#FFFFFF" points="230 81 235 81 235 90 230 90"></polygon>
+                                    <polygon id="Rectangle-Copy-871" fill="#FFFFFF" points="225 81 230 81 230 90 225 90"></polygon>
+                                    <polygon id="Rectangle-Copy-870" fill="#FFFFFF" points="220 81 225 81 225 90 220 90"></polygon>
+                                    <polygon id="Rectangle-Copy-869" fill="#FFFFFF" points="215 81 220 81 220 90 215 90"></polygon>
+                                    <polygon id="Rectangle-Copy-868" fill="#FFFFFF" points="210 81 215 81 215 90 210 90"></polygon>
+                                    <polygon id="Rectangle-Copy-867" fill="#FFFFFF" points="205 81 210 81 210 90 205 90"></polygon>
+                                    <polygon id="Rectangle-Copy-866" fill="#FFFFFF" points="200 81 205 81 205 90 200 90"></polygon>
+                                    <polygon id="Rectangle-Copy-865" fill="#46828B" opacity="0.5" points="195 81 200 81 200 90 195 90"></polygon>
+                                    <polygon id="Rectangle-Copy-864" fill="#FFFFFF" points="190 81 195 81 195 90 190 90"></polygon>
+                                    <polygon id="Rectangle-Copy-863" fill="#FFFFFF" points="185 81 190 81 190 90 185 90"></polygon>
+                                    <polygon id="Rectangle-Copy-862" fill="#FFFFFF" points="180 81 185 81 185 90 180 90"></polygon>
+                                    <polygon id="Rectangle-Copy-861" fill="#FFFFFF" points="175 81 180 81 180 90 175 90"></polygon>
+                                    <polygon id="Rectangle-Copy-860" fill="#46828B" opacity="0.5" points="170 81 175 81 175 90 170 90"></polygon>
+                                    <polygon id="Rectangle-Copy-859" fill="#FFFFFF" points="165 81 170 81 170 90 165 90"></polygon>
+                                    <polygon id="Rectangle-Copy-858" fill="#FFFFFF" points="160 81 165 81 165 90 160 90"></polygon>
+                                    <polygon id="Rectangle-Copy-857" fill="#FFFFFF" points="155 81 160 81 160 90 155 90"></polygon>
+                                    <polygon id="Rectangle-Copy-856" fill="#46828B" points="150 81 155 81 155 90 150 90"></polygon>
+                                    <polygon id="Rectangle-Copy-855" fill="#46828B" points="145 81 150 81 150 90 145 90"></polygon>
+                                    <polygon id="Rectangle-Copy-854" fill="#FFFFFF" points="140 81 145 81 145 90 140 90"></polygon>
+                                    <polygon id="Rectangle-Copy-853" fill="#46828B" opacity="0.100000001" points="135 81 140 81 140 90 135 90"></polygon>
+                                    <polygon id="Rectangle-Copy-852" fill="#FFFFFF" points="130 81 135 81 135 90 130 90"></polygon>
+                                    <polygon id="Rectangle-Copy-851" fill="#46828B" points="125 81 130 81 130 90 125 90"></polygon>
+                                    <polygon id="Rectangle-Copy-850" fill="#46828B" points="120 81 125 81 125 90 120 90"></polygon>
+                                    <polygon id="Rectangle-Copy-849" fill="#46828B" opacity="0.5" points="115 81 120 81 120 90 115 90"></polygon>
+                                    <polygon id="Rectangle-Copy-848" fill="#FFFFFF" points="110 81 115 81 115 90 110 90"></polygon>
+                                    <polygon id="Rectangle-Copy-847" fill="#46828B" points="105 81 110 81 110 90 105 90"></polygon>
+                                    <polygon id="Rectangle-Copy-846" fill="#46828B" points="100 81 105 81 105 90 100 90"></polygon>
+                                    <polygon id="Rectangle-Copy-845" fill="#46828B" points="95 81 100 81 100 90 95 90"></polygon>
+                                    <polygon id="Rectangle-Copy-844" fill="#FFFFFF" points="90 81 95 81 95 90 90 90"></polygon>
+                                    <polygon id="Rectangle-Copy-843" fill="#FFFFFF" points="85 81 90 81 90 90 85 90"></polygon>
+                                    <polygon id="Rectangle-Copy-842" fill="#FFFFFF" points="80 81 85 81 85 90 80 90"></polygon>
+                                    <polygon id="Rectangle-Copy-841" fill="#FFFFFF" points="75 81 80 81 80 90 75 90"></polygon>
+                                    <polygon id="Rectangle-Copy-840" fill="#FFFFFF" points="70 81 75 81 75 90 70 90"></polygon>
+                                    <polygon id="Rectangle-Copy-839" fill="#FFFFFF" points="65 81 70 81 70 90 65 90"></polygon>
+                                    <polygon id="Rectangle-Copy-838" fill="#FFFFFF" points="60 81 65 81 65 90 60 90"></polygon>
+                                    <polygon id="Rectangle-Copy-837" fill="#FFFFFF" points="55 81 60 81 60 90 55 90"></polygon>
+                                    <polygon id="Rectangle-Copy-836" fill="#FFFFFF" points="50 81 55 81 55 90 50 90"></polygon>
+                                    <polygon id="Rectangle-Copy-835" fill="#FFFFFF" points="45 81 50 81 50 90 45 90"></polygon>
+                                    <polygon id="Rectangle-Copy-834" fill="#FFFFFF" points="40 81 45 81 45 90 40 90"></polygon>
+                                    <polygon id="Rectangle-Copy-833" fill="#FFFFFF" points="35 81 40 81 40 90 35 90"></polygon>
+                                    <polygon id="Rectangle-Copy-832" fill="#FFFFFF" points="30 81 35 81 35 90 30 90"></polygon>
+                                    <polygon id="Rectangle-Copy-831" fill="#FFFFFF" points="25 81 30 81 30 90 25 90"></polygon>
+                                    <polygon id="Rectangle-Copy-830" fill="#46828B" style="mix-blend-mode: multiply;" points="20 81 25 81 25 90 20 90"></polygon>
+                                    <polygon id="Rectangle-Copy-829" fill="#46828B" style="mix-blend-mode: multiply;" points="15 81 20 81 20 90 15 90"></polygon>
+                                    <polygon id="Rectangle-Copy-828" fill="#46828B" style="mix-blend-mode: multiply;" points="10 81 15 81 15 90 10 90"></polygon>
+                                    <polygon id="Rectangle-Copy-827" fill="#46828B" style="mix-blend-mode: multiply;" points="5 81 10 81 10 90 5 90"></polygon>
+                                    <polygon id="Rectangle-Copy-826" fill="#46828B" style="mix-blend-mode: multiply;" points="0 81 5 81 5 90 0 90"></polygon>
+                                    <polygon id="Rectangle-Copy-824" fill="#FFFFFF" points="285 72 290 72 290 81 285 81"></polygon>
+                                    <polygon id="Rectangle-Copy-823" fill="#46828B" points="280 72 285 72 285 81 280 81"></polygon>
+                                    <polygon id="Rectangle-Copy-822" fill="#46828B" points="275 72 280 72 280 81 275 81"></polygon>
+                                    <polygon id="Rectangle-Copy-821" fill="#46828B" points="270 72 275 72 275 81 270 81"></polygon>
+                                    <polygon id="Rectangle-Copy-820" fill="#46828B" points="265 72 270 72 270 81 265 81"></polygon>
+                                    <polygon id="Rectangle-Copy-819" fill="#FFFFFF" points="260 72 265 72 265 81 260 81"></polygon>
+                                    <polygon id="Rectangle-Copy-818" fill="#46828B" points="255 72 260 72 260 81 255 81"></polygon>
+                                    <polygon id="Rectangle-Copy-817" fill="#FFFFFF" points="250 72 255 72 255 81 250 81"></polygon>
+                                    <polygon id="Rectangle-Copy-816" fill="#46828B" points="245 72 250 72 250 81 245 81"></polygon>
+                                    <polygon id="Rectangle-Copy-815" fill="#FFFFFF" points="240 72 245 72 245 81 240 81"></polygon>
+                                    <polygon id="Rectangle-Copy-814" fill="#46828B" points="235 72 240 72 240 81 235 81"></polygon>
+                                    <polygon id="Rectangle-Copy-813" fill="#46828B" points="230 72 235 72 235 81 230 81"></polygon>
+                                    <polygon id="Rectangle-Copy-812" fill="#FFFFFF" points="225 72 230 72 230 81 225 81"></polygon>
+                                    <polygon id="Rectangle-Copy-811" fill="#FFFFFF" points="220 72 225 72 225 81 220 81"></polygon>
+                                    <polygon id="Rectangle-Copy-810" fill="#FFFFFF" points="215 72 220 72 220 81 215 81"></polygon>
+                                    <polygon id="Rectangle-Copy-809" fill="#46828B" opacity="0.5" points="210 72 215 72 215 81 210 81"></polygon>
+                                    <polygon id="Rectangle-Copy-808" fill="#FFFFFF" points="205 72 210 72 210 81 205 81"></polygon>
+                                    <polygon id="Rectangle-Copy-807" fill="#46828B" points="200 72 205 72 205 81 200 81"></polygon>
+                                    <polygon id="Rectangle-Copy-806" fill="#46828B" points="195 72 200 72 200 81 195 81"></polygon>
+                                    <polygon id="Rectangle-Copy-805" fill="#46828B" opacity="0.5" points="190 72 195 72 195 81 190 81"></polygon>
+                                    <polygon id="Rectangle-Copy-804" fill="#FFFFFF" points="185 72 190 72 190 81 185 81"></polygon>
+                                    <polygon id="Rectangle-Copy-803" fill="#FFFFFF" points="180 72 185 72 185 81 180 81"></polygon>
+                                    <polygon id="Rectangle-Copy-802" fill="#46828B" points="175 72 180 72 180 81 175 81"></polygon>
+                                    <polygon id="Rectangle-Copy-801" fill="#46828B" points="170 72 175 72 175 81 170 81"></polygon>
+                                    <polygon id="Rectangle-Copy-800" fill="#46828B" points="165 72 170 72 170 81 165 81"></polygon>
+                                    <polygon id="Rectangle-Copy-799" fill="#FFFFFF" points="160 72 165 72 165 81 160 81"></polygon>
+                                    <polygon id="Rectangle-Copy-798" fill="#FFFFFF" points="155 72 160 72 160 81 155 81"></polygon>
+                                    <polygon id="Rectangle-Copy-797" fill="#46828B" points="150 72 155 72 155 81 150 81"></polygon>
+                                    <polygon id="Rectangle-Copy-796" fill="#46828B" points="145 72 150 72 150 81 145 81"></polygon>
+                                    <polygon id="Rectangle-Copy-795" fill="#46828B" opacity="0.100000001" points="140 72 145 72 145 81 140 81"></polygon>
+                                    <polygon id="Rectangle-Copy-794" fill="#46828B" points="135 72 140 72 140 81 135 81"></polygon>
+                                    <polygon id="Rectangle-Copy-793" fill="#46828B" points="130 72 135 72 135 81 130 81"></polygon>
+                                    <polygon id="Rectangle-Copy-792" fill="#FFFFFF" points="125 72 130 72 130 81 125 81"></polygon>
+                                    <polygon id="Rectangle-Copy-791" fill="#46828B" opacity="0.5" points="120 72 125 72 125 81 120 81"></polygon>
+                                    <polygon id="Rectangle-Copy-790" fill="#46828B" points="115 72 120 72 120 81 115 81"></polygon>
+                                    <polygon id="Rectangle-Copy-789" fill="#FFFFFF" points="110 72 115 72 115 81 110 81"></polygon>
+                                    <polygon id="Rectangle-Copy-788" fill="#46828B" points="105 72 110 72 110 81 105 81"></polygon>
+                                    <polygon id="Rectangle-Copy-787" fill="#46828B" points="100 72 105 72 105 81 100 81"></polygon>
+                                    <polygon id="Rectangle-Copy-786" fill="#46828B" points="95 72 100 72 100 81 95 81"></polygon>
+                                    <polygon id="Rectangle-Copy-767" fill="#46828B" style="mix-blend-mode: multiply;" points="0 72 5 72 5 81 0 81"></polygon>
+                                    <polygon id="Rectangle-Copy-765" fill="#FFFFFF" points="285 63 290 63 290 72 285 72"></polygon>
+                                    <polygon id="Rectangle-Copy-764" fill="#46828B" points="280 63 285 63 285 72 280 72"></polygon>
+                                    <polygon id="Rectangle-Copy-763" fill="#46828B" points="275 63 280 63 280 72 275 72"></polygon>
+                                    <polygon id="Rectangle-Copy-762" fill="#FFFFFF" points="270 63 275 63 275 72 270 72"></polygon>
+                                    <polygon id="Rectangle-Copy-761" fill="#46828B" points="265 63 270 63 270 72 265 72"></polygon>
+                                    <polygon id="Rectangle-Copy-760" fill="#FFFFFF" points="260 63 265 63 265 72 260 72"></polygon>
+                                    <polygon id="Rectangle-Copy-759" fill="#46828B" points="255 63 260 63 260 72 255 72"></polygon>
+                                    <polygon id="Rectangle-Copy-758" fill="#FFFFFF" points="250 63 255 63 255 72 250 72"></polygon>
+                                    <polygon id="Rectangle-Copy-757" fill="#46828B" points="245 63 250 63 250 72 245 72"></polygon>
+                                    <polygon id="Rectangle-Copy-756" fill="#FFFFFF" points="240 63 245 63 245 72 240 72"></polygon>
+                                    <polygon id="Rectangle-Copy-755" fill="#46828B" points="235 63 240 63 240 72 235 72"></polygon>
+                                    <polygon id="Rectangle-Copy-754" fill="#46828B" points="230 63 235 63 235 72 230 72"></polygon>
+                                    <polygon id="Rectangle-Copy-753" fill="#46828B" opacity="0.5" points="225 63 230 63 230 72 225 72"></polygon>
+                                    <polygon id="Rectangle-Copy-752" fill="#46828B" opacity="0.5" points="220 63 225 63 225 72 220 72"></polygon>
+                                    <polygon id="Rectangle-Copy-751" fill="#FFFFFF" points="215 63 220 63 220 72 215 72"></polygon>
+                                    <polygon id="Rectangle-Copy-750" fill="#46828B" points="210 63 215 63 215 72 210 72"></polygon>
+                                    <polygon id="Rectangle-Copy-749" fill="#FFFFFF" points="205 63 210 63 210 72 205 72"></polygon>
+                                    <polygon id="Rectangle-Copy-748" fill="#46828B" points="200 63 205 63 205 72 200 72"></polygon>
+                                    <polygon id="Rectangle-Copy-747" fill="#FFFFFF" points="195 63 200 63 200 72 195 72"></polygon>
+                                    <polygon id="Rectangle-Copy-746" fill="#46828B" points="190 63 195 63 195 72 190 72"></polygon>
+                                    <polygon id="Rectangle-Copy-745" fill="#46828B" opacity="0.5" points="185 63 190 63 190 72 185 72"></polygon>
+                                    <polygon id="Rectangle-Copy-744" fill="#46828B" points="180 63 185 63 185 72 180 72"></polygon>
+                                    <polygon id="Rectangle-Copy-743" fill="#46828B" points="175 63 180 63 180 72 175 72"></polygon>
+                                    <polygon id="Rectangle-Copy-742" fill="#46828B" opacity="0.5" points="170 63 175 63 175 72 170 72"></polygon>
+                                    <polygon id="Rectangle-Copy-741" fill="#46828B" points="165 63 170 63 170 72 165 72"></polygon>
+                                    <polygon id="Rectangle-Copy-740" fill="#46828B" points="160 63 165 63 165 72 160 72"></polygon>
+                                    <polygon id="Rectangle-Copy-739" fill="#46828B" opacity="0.5" points="155 63 160 63 160 72 155 72"></polygon>
+                                    <polygon id="Rectangle-Copy-738" fill="#46828B" points="150 63 155 63 155 72 150 72"></polygon>
+                                    <polygon id="Rectangle-Copy-737" fill="#FFFFFF" points="145 63 150 63 150 72 145 72"></polygon>
+                                    <polygon id="Rectangle-Copy-736" fill="#46828B" points="140 63 145 63 145 72 140 72"></polygon>
+                                    <polygon id="Rectangle-Copy-735" fill="#FFFFFF" points="135 63 140 63 140 72 135 72"></polygon>
+                                    <polygon id="Rectangle-Copy-734" fill="#FFFFFF" points="130 63 135 63 135 72 130 72"></polygon>
+                                    <polygon id="Rectangle-Copy-733" fill="#FFFFFF" points="125 63 130 63 130 72 125 72"></polygon>
+                                    <polygon id="Rectangle-Copy-732" fill="#FFFFFF" points="120 63 125 63 125 72 120 72"></polygon>
+                                    <polygon id="Rectangle-Copy-731" fill="#46828B" points="115 63 120 63 120 72 115 72"></polygon>
+                                    <polygon id="Rectangle-Copy-730" fill="#46828B" opacity="0.800000012" points="110 63 115 63 115 72 110 72"></polygon>
+                                    <polygon id="Rectangle-Copy-729" fill="#46828B" points="105 63 110 63 110 72 105 72"></polygon>
+                                    <polygon id="Rectangle-Copy-728" fill="#46828B" points="100 63 105 63 105 72 100 72"></polygon>
+                                    <polygon id="Rectangle-Copy-727" fill="#46828B" points="95 63 100 63 100 72 95 72"></polygon>
+                                    <polygon id="Rectangle-Copy-707" fill="#46828B" points="290 54 295 54 295 63 290 63"></polygon>
+                                    <polygon id="Rectangle-Copy-706" fill="#46828B" points="285 54 290 54 290 63 285 63"></polygon>
+                                    <polygon id="Rectangle-Copy-705" fill="#46828B" points="280 54 285 54 285 63 280 63"></polygon>
+                                    <polygon id="Rectangle-Copy-704" fill="#FFFFFF" points="275 54 280 54 280 63 275 63"></polygon>
+                                    <polygon id="Rectangle-Copy-703" fill="#FFFFFF" points="270 54 275 54 275 63 270 63"></polygon>
+                                    <polygon id="Rectangle-Copy-702" fill="#46828B" points="265 54 270 54 270 63 265 63"></polygon>
+                                    <polygon id="Rectangle-Copy-701" fill="#FFFFFF" points="260 54 265 54 265 63 260 63"></polygon>
+                                    <polygon id="Rectangle-Copy-700" fill="#46828B" points="255 54 260 54 260 63 255 63"></polygon>
+                                    <polygon id="Rectangle-Copy-699" fill="#FFFFFF" points="250 54 255 54 255 63 250 63"></polygon>
+                                    <polygon id="Rectangle-Copy-698" fill="#FFFFFF" points="245 54 250 54 250 63 245 63"></polygon>
+                                    <polygon id="Rectangle-Copy-697" fill="#46828B" points="240 54 245 54 245 63 240 63"></polygon>
+                                    <polygon id="Rectangle-Copy-696" fill="#46828B" points="235 54 240 54 240 63 235 63"></polygon>
+                                    <polygon id="Rectangle-Copy-695" fill="#FFFFFF" points="230 54 235 54 235 63 230 63"></polygon>
+                                    <polygon id="Rectangle-Copy-694" fill="#46828B" points="225 54 230 54 230 63 225 63"></polygon>
+                                    <polygon id="Rectangle-Copy-693" fill="#46828B" points="220 54 225 54 225 63 220 63"></polygon>
+                                    <polygon id="Rectangle-Copy-692" fill="#FFFFFF" points="215 54 220 54 220 63 215 63"></polygon>
+                                    <polygon id="Rectangle-Copy-691" fill="#46828B" points="210 54 215 54 215 63 210 63"></polygon>
+                                    <polygon id="Rectangle-Copy-690" fill="#FFFFFF" points="205 54 210 54 210 63 205 63"></polygon>
+                                    <polygon id="Rectangle-Copy-689" fill="#46828B" points="200 54 205 54 205 63 200 63"></polygon>
+                                    <polygon id="Rectangle-Copy-688" fill="#FFFFFF" points="195 54 200 54 200 63 195 63"></polygon>
+                                    <polygon id="Rectangle-Copy-687" fill="#46828B" opacity="0.5" points="190 54 195 54 195 63 190 63"></polygon>
+                                    <polygon id="Rectangle-Copy-686" fill="#46828B" points="185 54 190 54 190 63 185 63"></polygon>
+                                    <polygon id="Rectangle-Copy-685" fill="#46828B" points="180 54 185 54 185 63 180 63"></polygon>
+                                    <polygon id="Rectangle-Copy-684" fill="#FFFFFF" points="175 54 180 54 180 63 175 63"></polygon>
+                                    <polygon id="Rectangle-Copy-683" fill="#FFFFFF" points="170 54 175 54 175 63 170 63"></polygon>
+                                    <polygon id="Rectangle-Copy-682" fill="#FFFFFF" points="165 54 170 54 170 63 165 63"></polygon>
+                                    <polygon id="Rectangle-Copy-681" fill="#46828B" points="160 54 165 54 165 63 160 63"></polygon>
+                                    <polygon id="Rectangle-Copy-680" fill="#46828B" points="155 54 160 54 160 63 155 63"></polygon>
+                                    <polygon id="Rectangle-Copy-679" fill="#FFFFFF" points="150 54 155 54 155 63 150 63"></polygon>
+                                    <polygon id="Rectangle-Copy-678" fill="#FFFFFF" points="145 54 150 54 150 63 145 63"></polygon>
+                                    <polygon id="Rectangle-Copy-677" fill="#46828B" points="140 54 145 54 145 63 140 63"></polygon>
+                                    <polygon id="Rectangle-Copy-676" fill="#FFFFFF" points="135 54 140 54 140 63 135 63"></polygon>
+                                    <polygon id="Rectangle-Copy-675" fill="#FFFFFF" points="130 54 135 54 135 63 130 63"></polygon>
+                                    <polygon id="Rectangle-Copy-674" fill="#FFFFFF" points="125 54 130 54 130 63 125 63"></polygon>
+                                    <polygon id="Rectangle-Copy-673" fill="#FFFFFF" points="120 54 125 54 125 63 120 63"></polygon>
+                                    <polygon id="Rectangle-Copy-672" fill="#FFFFFF" points="115 54 120 54 120 63 115 63"></polygon>
+                                    <polygon id="Rectangle-Copy-671" fill="#46828B" points="110 54 115 54 115 63 110 63"></polygon>
+                                    <polygon id="Rectangle-Copy-670" fill="#46828B" opacity="0.5" points="105 54 110 54 110 63 105 63"></polygon>
+                                    <polygon id="Rectangle-Copy-669" fill="#FFFFFF" points="100 54 105 54 105 63 100 63"></polygon>
+                                    <polygon id="Rectangle-Copy-668" fill="#46828B" opacity="0.5" points="95 54 100 54 100 63 95 63"></polygon>
+                                    <polygon id="Rectangle-Copy-648" fill="#FFFFFF" points="290 45 295 45 295 54 290 54"></polygon>
+                                    <polygon id="Rectangle-Copy-647" fill="#FFFFFF" points="285 45 290 45 290 54 285 54"></polygon>
+                                    <polygon id="Rectangle-Copy-646" fill="#FFFFFF" points="280 45 285 45 285 54 280 54"></polygon>
+                                    <polygon id="Rectangle-Copy-645" fill="#FFFFFF" points="275 45 280 45 280 54 275 54"></polygon>
+                                    <polygon id="Rectangle-Copy-644" fill="#FFFFFF" points="270 45 275 45 275 54 270 54"></polygon>
+                                    <polygon id="Rectangle-Copy-643" fill="#46828B" points="265 45 270 45 270 54 265 54"></polygon>
+                                    <polygon id="Rectangle-Copy-642" fill="#FFFFFF" points="260 45 265 45 265 54 260 54"></polygon>
+                                    <polygon id="Rectangle-Copy-641" fill="#46828B" points="255 45 260 45 260 54 255 54"></polygon>
+                                    <polygon id="Rectangle-Copy-640" fill="#FFFFFF" points="250 45 255 45 255 54 250 54"></polygon>
+                                    <polygon id="Rectangle-Copy-639" fill="#FFFFFF" points="245 45 250 45 250 54 245 54"></polygon>
+                                    <polygon id="Rectangle-Copy-638" fill="#FFFFFF" points="240 45 245 45 245 54 240 54"></polygon>
+                                    <polygon id="Rectangle-Copy-637" fill="#FFFFFF" points="235 45 240 45 240 54 235 54"></polygon>
+                                    <polygon id="Rectangle-Copy-636" fill="#FFFFFF" points="230 45 235 45 235 54 230 54"></polygon>
+                                    <polygon id="Rectangle-Copy-635" fill="#FFFFFF" points="225 45 230 45 230 54 225 54"></polygon>
+                                    <polygon id="Rectangle-Copy-634" fill="#FFFFFF" points="220 45 225 45 225 54 220 54"></polygon>
+                                    <polygon id="Rectangle-Copy-633" fill="#46828B" points="215 45 220 45 220 54 215 54"></polygon>
+                                    <polygon id="Rectangle-Copy-632" fill="#46828B" points="210 45 215 45 215 54 210 54"></polygon>
+                                    <polygon id="Rectangle-Copy-631" fill="#46828B" points="205 45 210 45 210 54 205 54"></polygon>
+                                    <polygon id="Rectangle-Copy-630" fill="#46828B" points="200 45 205 45 205 54 200 54"></polygon>
+                                    <polygon id="Rectangle-Copy-629" fill="#FFFFFF" points="195 45 200 45 200 54 195 54"></polygon>
+                                    <polygon id="Rectangle-Copy-628" fill="#FFFFFF" points="190 45 195 45 195 54 190 54"></polygon>
+                                    <polygon id="Rectangle-Copy-627" fill="#FFFFFF" points="185 45 190 45 190 54 185 54"></polygon>
+                                    <polygon id="Rectangle-Copy-626" fill="#FFFFFF" points="180 45 185 45 185 54 180 54"></polygon>
+                                    <polygon id="Rectangle-Copy-625" fill="#FFFFFF" points="175 45 180 45 180 54 175 54"></polygon>
+                                    <polygon id="Rectangle-Copy-624" fill="#FFFFFF" points="170 45 175 45 175 54 170 54"></polygon>
+                                    <polygon id="Rectangle-Copy-623" fill="#FFFFFF" points="165 45 170 45 170 54 165 54"></polygon>
+                                    <polygon id="Rectangle-Copy-622" fill="#FFFFFF" points="160 45 165 45 165 54 160 54"></polygon>
+                                    <polygon id="Rectangle-Copy-621" fill="#46828B" points="155 45 160 45 160 54 155 54"></polygon>
+                                    <polygon id="Rectangle-Copy-589" fill="#FFFFFF" points="290 36 295 36 295 45 290 45"></polygon>
+                                    <polygon id="Rectangle-Copy-588" fill="#FFFFFF" points="285 36 290 36 290 45 285 45"></polygon>
+                                    <polygon id="Rectangle-Copy-587" fill="#FFFFFF" points="280 36 285 36 285 45 280 45"></polygon>
+                                    <polygon id="Rectangle-Copy-586" fill="#FFFFFF" points="275 36 280 36 280 45 275 45"></polygon>
+                                    <polygon id="Rectangle-Copy-585" fill="#FFFFFF" points="270 36 275 36 275 45 270 45"></polygon>
+                                    <polygon id="Rectangle-Copy-584" fill="#46828B" points="265 36 270 36 270 45 265 45"></polygon>
+                                    <polygon id="Rectangle-Copy-583" fill="#FFFFFF" points="260 36 265 36 265 45 260 45"></polygon>
+                                    <polygon id="Rectangle-Copy-582" fill="#46828B" points="255 36 260 36 260 45 255 45"></polygon>
+                                    <polygon id="Rectangle-Copy-572" fill="#46828B" points="205 36 210 36 210 45 205 45"></polygon>
+                                    <polygon id="Rectangle-Copy-562" fill="#FFFFFF" points="155 36 160 36 160 45 155 45"></polygon>
+                                    <polygon id="Rectangle-Copy-530" fill="#FFFFFF" points="290 27 295 27 295 36 290 36"></polygon>
+                                    <polygon id="Rectangle-Copy-529" fill="#FFFFFF" points="285 27 290 27 290 36 285 36"></polygon>
+                                    <polygon id="Rectangle-Copy-528" fill="#FFFFFF" points="280 27 285 27 285 36 280 36"></polygon>
+                                    <polygon id="Rectangle-Copy-527" fill="#FFFFFF" points="275 27 280 27 280 36 275 36"></polygon>
+                                    <polygon id="Rectangle-Copy-526" fill="#FFFFFF" points="270 27 275 27 275 36 270 36"></polygon>
+                                    <polygon id="Rectangle-Copy-525" fill="#46828B" points="265 27 270 27 270 36 265 36"></polygon>
+                                    <polygon id="Rectangle-Copy-524" fill="#46828B" points="260 27 265 27 265 36 260 36"></polygon>
+                                    <polygon id="Rectangle-Copy-523" fill="#FFFFFF" points="255 27 260 27 260 36 255 36"></polygon>
+                                    <polygon id="Rectangle-Copy-513" fill="#FFFFFF" points="205 27 210 27 210 36 205 36"></polygon>
+                                    <polygon id="Rectangle-Copy-503" fill="#FFFFFF" points="155 27 160 27 160 36 155 36"></polygon>
+                                    <polygon id="Rectangle-Copy-471" fill="#FFFFFF" points="290 18 295 18 295 27 290 27"></polygon>
+                                    <polygon id="Rectangle-Copy-470" fill="#FFFFFF" points="285 18 290 18 290 27 285 27"></polygon>
+                                    <polygon id="Rectangle-Copy-469" fill="#FFFFFF" points="280 18 285 18 285 27 280 27"></polygon>
+                                    <polygon id="Rectangle-Copy-468" fill="#FFFFFF" points="275 18 280 18 280 27 275 27"></polygon>
+                                    <polygon id="Rectangle-Copy-467" fill="#FFFFFF" points="270 18 275 18 275 27 270 27"></polygon>
+                                    <polygon id="Rectangle-Copy-466" fill="#46828B" points="265 18 270 18 270 27 265 27"></polygon>
+                                    <polygon id="Rectangle-Copy-465" fill="#46828B" points="260 18 265 18 265 27 260 27"></polygon>
+                                    <polygon id="Rectangle-Copy-464" fill="#FFFFFF" points="255 18 260 18 260 27 255 27"></polygon>
+                                    <polygon id="Rectangle-Copy-454" fill="#FFFFFF" points="205 18 210 18 210 27 205 27"></polygon>
+                                    <polygon id="Rectangle-Copy-407" fill="#46828B" points="265 9 270 9 270 18 265 18"></polygon>
+                                    <polygon id="Rectangle-Copy-406" fill="#46828B" points="260 9 265 9 265 18 260 18"></polygon>
+                                    <polygon id="Rectangle-Copy-405" fill="#FFFFFF" points="255 9 260 9 260 18 255 18"></polygon>
+                                    <polygon id="Rectangle-Copy-348" fill="#FFFFFF" points="265 0 270 0 270 9 265 9"></polygon>
+                                    <polygon id="Rectangle-Copy-347" fill="#46828B" opacity="0.400000006" points="260 0 265 0 265 9 260 9"></polygon>
+                                    <polygon id="Rectangle-Copy-346" fill="#FFFFFF" points="255 0 260 0 260 9 255 9"></polygon>
+                                </g>
+                            </g>
+                            <path d="M0.5,71.5 L294.991086,71.5" id="Line-3-Copy" stroke="#000000" stroke-width="0.5" opacity="0.100000001" stroke-linecap="round" mask="url(#mask-23)"></path>
+                            <path d="M0,87.8622487 L25.3222337,99.9933609 C33.1320401,103.734802 39.2089678,110.329692 42.3005377,118.418799 L46.1034624,128.36917 C46.3436428,128.997603 47.0477931,129.312344 47.6762263,129.072163 C47.9676463,128.960786 48.205226,128.741842 48.3399865,128.46047 L48.3399865,128.46047 C49.1522404,126.764532 49.720725,124.962307 50.0285746,123.107262 L50.7172525,118.957415 C51.1865563,116.129477 52.1300852,113.401104 53.5080359,110.887395 L53.5080359,110.887395 C54.6915572,108.728371 57.313759,107.810809 59.585212,108.760865 L62.2168946,109.861591 C66.2403372,111.544433 70.8788907,110.67792 74.0234596,107.656044 L76.9596382,104.834427 C79.6535885,102.245587 83.9361358,102.330797 86.5249754,105.024747 C87.2919639,105.822876 87.851389,106.797018 88.1541802,107.861724 L91.4935239,119.603878 C91.6027884,119.988085 91.9182454,120.278589 92.3101358,120.355894 L92.3101358,120.355894 C92.6318486,120.419355 92.9440942,120.210001 93.0075558,119.888289 C93.0110708,119.87047 93.0137662,119.8525 93.0156338,119.834434 L97.8711263,72.8651877 C97.9204757,72.3878097 98.3474727,72.0408239 98.8248508,72.0901733 C99.1827547,72.127172 99.4808386,72.3809166 99.5745087,72.7283213 L99.5745087,72.7283213 C100.38533,75.735504 100.814253,78.8328191 100.851156,81.9471755 L101.203318,111.666698 C101.243551,115.062112 101.610001,118.445801 102.297614,121.771105 L102.944548,124.899688 C103.070964,125.511041 103.669045,125.90416 104.280398,125.777743 C104.777747,125.674901 105.145448,125.252985 105.17935,124.746248 L108.760553,71.2183724 C108.827715,70.2145051 109.669883,69.4394228 110.675864,69.4556321 L110.675864,69.4556321 C111.772685,69.4733051 112.76159,70.12012 113.217329,71.1179327 L122.489385,91.4185171 C123.166784,92.9016383 124.328926,94.1099507 125.784544,94.8445884 L125.784544,94.8445884 C126.733818,95.3236787 127.891737,94.9425193 128.370827,93.9932449 C128.447722,93.8408848 128.504017,93.6789771 128.538234,93.5117776 L130.156474,85.6041686 C130.481642,84.01522 132.03334,82.9907233 133.622289,83.3158913 C134.31659,83.4579756 134.936091,83.8463421 135.366514,84.4093507 L135.366514,84.4093507 C136.24202,85.554543 137.880119,85.7731672 139.025312,84.8976614 C139.586962,84.4682765 139.950405,83.8294209 140.032508,83.127223 L141.503974,70.5423096 C141.622282,69.5304601 142.538456,68.8061021 143.550306,68.9244105 C144.427115,69.0269296 145.108376,69.7363098 145.175367,70.616546 L147.272125,98.1670565 C147.395918,99.7936488 147.789315,101.388337 148.436222,102.885881 L148.436222,102.885881 C148.657488,103.398097 149.252093,103.633959 149.76431,103.412692 C150.012589,103.305441 150.207499,103.103121 150.305417,102.851015 L150.742263,101.726276 C151.624552,99.4546694 152.211046,97.0790302 152.487317,94.6578105 L156.238322,61.7842027 C156.34203,60.8753125 156.937864,60.0974073 157.788358,59.7605164 L157.788358,59.7605164 C158.552344,59.4578928 159.417231,59.8297811 159.723157,60.59245 L169.379651,84.6659415 C169.543745,85.0750237 169.950143,85.3341773 170.390267,85.3103949 L170.390267,85.3103949 C170.830821,85.2865893 171.207792,84.9859897 171.329068,84.5617886 L171.963152,82.34388 C172.230684,81.4081018 173.206159,80.8663811 174.141937,81.1339131 C174.438002,81.2185556 174.70672,81.3792973 174.921322,81.6001245 L175.797566,82.5017887 C176.593898,83.3212223 177.903735,83.3399497 178.723168,82.5436177 C179.059767,82.2165081 179.275138,81.784668 179.333918,81.3190023 L181.09079,67.4007655 C181.307781,65.6817208 182.346669,64.1753606 183.876415,63.3616799 L183.876415,63.3616799 C185.09717,62.7123532 186.613172,63.1755877 187.262498,64.3963432 C187.30111,64.4689342 187.336122,64.5433831 187.367407,64.6194194 L192.2561,76.500904 C193.493882,79.5092109 195.229917,82.2873444 197.391239,84.7185384 L197.391239,84.7185384 C198.172896,85.5977972 199.519335,85.6769187 200.398593,84.8952613 C200.802858,84.5358717 201.055261,84.0361484 201.10459,83.4974858 L202.867032,64.2520005 C203.172494,60.9164232 203.793473,57.6173136 204.721636,54.398945 L205.503224,51.6888174 C205.69754,51.0150324 206.401276,50.6263464 207.075061,50.8206629 C207.313094,50.8893107 207.525847,51.0260927 207.687106,51.2141568 L207.687106,51.2141568 C208.682198,52.3746576 209.280386,53.8227938 209.394382,55.3472532 L210.918046,75.7231634 C210.974803,76.4821671 211.636107,77.0514509 212.395111,76.9946944 C213.090055,76.942728 213.636841,76.3801538 213.66901,75.6840123 L214.429052,59.2364435 C214.503135,57.6332502 215.862837,56.3936618 217.46603,56.4677454 C218.77679,56.5283156 219.884345,57.4597724 220.168747,58.7407392 L222.248851,68.1096499 C222.493611,69.2120633 223.58571,69.9073287 224.688124,69.6625689 C225.540379,69.4733495 226.178491,68.7639032 226.276676,67.8964338 L226.276676,67.8964338 C226.397977,66.8247264 227.365101,66.0542697 228.436808,66.1755707 C229.275763,66.2705277 229.958691,66.8938775 230.129622,67.7207054 L232.524085,79.3031831 C232.831544,80.7904242 234.286436,81.7468261 235.773677,81.4393666 C236.841775,81.2185571 237.678416,80.3873479 237.906178,79.3207107 L240.352917,67.8623082 C240.526468,67.0495467 241.167197,66.4181198 241.98241,66.256473 L241.98241,66.256473 C242.714925,66.111224 243.426493,66.5872973 243.571742,67.3198124 C243.572868,67.32549 243.573957,67.3311747 243.57501,67.3368663 L245.996343,80.4269655 C246.690203,84.1780776 248.159393,87.7430627 250.309924,90.8938558 L253.323178,95.3086433 C253.488558,95.5509453 253.651923,95.7946163 253.813257,96.0396309 L254.755089,97.4699722 C254.979141,97.8102365 255.43661,97.9044447 255.776875,97.6803922 C255.967162,97.5550945 256.088874,97.3488991 256.106623,97.1217567 L262.246809,18.5437332 C262.292832,17.9547709 262.671283,17.4438641 263.221274,17.2282136 L263.221274,17.2282136 C263.726932,17.0299459 264.29964,17.2585278 264.529813,17.7504835 L265.541439,19.9126626 C266.477869,21.914123 266.97475,24.0929396 266.998647,26.3025038 L267.678758,89.1867107 C267.691941,90.405609 267.74717,91.6236897 267.844349,92.8387794 L268.72958,103.907466 C268.789866,104.661265 269.449811,105.223468 270.20361,105.163182 C270.847269,105.111704 271.367482,104.617538 271.451925,103.977369 L275.532973,73.0384732 C275.623388,72.3530207 276.252354,71.8706482 276.937806,71.961064 C277.533766,72.039675 277.989721,72.5307812 278.023937,73.1309284 L278.719229,85.3262963 C278.732743,85.5633283 278.935851,85.7445255 279.172882,85.7310116 C279.288546,85.7244173 279.396652,85.6714178 279.472703,85.5840231 L279.472703,85.5840231 C279.924094,85.0653 280.20585,84.4208108 280.280087,83.737205 L281.380894,73.60058 C281.562344,71.9297326 282.055432,70.3077127 282.83461,68.8185727 L282.83461,68.8185727 C283.593311,67.3685663 284.865413,66.2535551 286.402342,65.6914187 L295.66464,62.3037039" id="Path-3" stroke="#46828B" fill-rule="nonzero" mask="url(#mask-23)"></path>
+                        </g>
+                        <circle id="Oval-4" fill="#46828B" fill-rule="nonzero" cx="307" cy="90" r="3"></circle>
+                        <g id="Group-3" transform="translate(49.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="48.5" height="16.5" rx="1"></rect>
+                            <text id="3-agents" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="6.13" y="11">3 agents</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(13.000000, 177.000000)">
+                            <path d="M1,-0.25 L32,-0.25 C32.6903559,-0.25 33.25,0.309644063 33.25,1 L33.25,15 C33.25,15.6903559 32.6903559,16.25 32,16.25 L1,16.25 C0.309644063,16.25 -0.25,15.6903559 -0.25,15 L-0.25,1 C-0.25,0.309644063 0.309644063,-0.25 1,-0.25 Z" id="Rectangle-4" stroke="#C7D9DC" stroke-width="0.5" fill="#FFFFFF"></path>
+                            <text id="bank" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#46828B">
+                                <tspan x="5" y="11">bank</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy" transform="translate(100.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="41.5" height="16.5" rx="1"></rect>
+                            <text id="10-runs" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.3" y="11">10 runs</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy-2" transform="translate(170.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="137.5" height="16.5" rx="1"></rect>
+                            <text id="agents-per-run" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="69.83" y="11">agents per run</tspan>
+                            </text>
+                            <text id="mean" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="16.02" y="11">mean</tspan>
+                            </text>
+                            <path d="M4.38235294,8.5 L12.3823529,8.5" id="Line-3" stroke="#46828B" stroke-linecap="round" fill-rule="nonzero"></path>
+                            <path d="M53.8458278,3 L62.1541722,3 C63.4914503,3 63.9763797,3.13923842 64.4652686,3.40069906 C64.9541574,3.66215969 65.3378403,4.04584256 65.5993009,4.53473144 C65.8607616,5.02362033 66,5.50854969 66,6.8458278 L66,9.1541722 C66,10.4914503 65.8607616,10.9763797 65.5993009,11.4652686 C65.3378403,11.9541574 64.9541574,12.3378403 64.4652686,12.5993009 C63.9763797,12.8607616 63.4914503,13 62.1541722,13 L53.8458278,13 C52.5085497,13 52.0236203,12.8607616 51.5347314,12.5993009 C51.0458426,12.3378403 50.6621597,11.9541574 50.4006991,11.4652686 C50.1392384,10.9763797 50,10.4914503 50,9.1541722 L50,6.8458278 C50,5.50854969 50.1392384,5.02362033 50.4006991,4.53473144 C50.6621597,4.04584256 51.0458426,3.66215969 51.5347314,3.40069906 C52.0236203,3.13923842 52.5085497,3 53.8458278,3 Z" id="Rectangle-Copy-1099" fill="url(#linearGradient-24)" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <g id="Tile" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(355.000000, 367.000000)">
+                        <text id="3" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="169">3</tspan>
+                        </text>
+                        <text id="6" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="102">6</tspan>
+                        </text>
+                        <text id="9" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="35">9</tspan>
+                        </text>
+                        <text id="Happiness-index" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="11" y="14">Happiness index</tspan>
+                        </text>
+                        <g id="Group-2" transform="translate(283.300000, 0.000000)">
+                            <path d="M1,0 L22.8,0 C23.3522847,-1.01453063e-16 23.8,0.44771525 23.8,1 L23.8,15 C23.8,15.5522847 23.3522847,16 22.8,16 L1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle-9" fill="#C07D7E" fill-rule="nonzero"></path>
+                            <text id="8.7" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">
+                                <tspan x="3.2" y="12">8.7</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(54.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="58.5" height="16.5" rx="1"></rect>
+                            <text id="100-agents" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.63" y="11">100 agents</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(13.000000, 177.000000)">
+                            <path d="M1,-0.25 L36,-0.25 C36.6903559,-0.25 37.25,0.309644063 37.25,1 L37.25,15 C37.25,15.6903559 36.6903559,16.25 36,16.25 L1,16.25 C0.309644063,16.25 -0.25,15.6903559 -0.25,15 L-0.25,1 C-0.25,0.309644063 0.309644063,-0.25 1,-0.25 Z" id="Rectangle-4" stroke="#C07D7E" stroke-width="0.5"></path>
+                            <text id="father" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#C07D7E">
+                                <tspan x="5" y="11">father</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy" transform="translate(115.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="41.5" height="16.5" rx="1"></rect>
+                            <text id="10-runs" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.3" y="11">10 runs</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy-2" transform="translate(215.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="92.5" height="16.5" rx="1"></rect>
+                            <text id="IQR" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="72.29" y="11">IQR</tspan>
+                            </text>
+                            <text id="total" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="20.3" y="11">total</tspan>
+                            </text>
+                            <path d="M7.38235294,8.5 L15.3823529,8.5" id="Line-3" stroke="#C07D7E" fill-rule="nonzero"></path>
+                            <path d="M58.8458278,3 L63.1541722,3 C64.4914503,3 64.9763797,3.13923842 65.4652686,3.40069906 C65.9541574,3.66215969 66.3378403,4.04584256 66.5993009,4.53473144 C66.8607616,5.02362033 67,5.50854969 67,6.8458278 L67,9.1541722 C67,10.4914503 66.8607616,10.9763797 66.5993009,11.4652686 C66.3378403,11.9541574 65.9541574,12.3378403 65.4652686,12.5993009 C64.9763797,12.8607616 64.4914503,13 63.1541722,13 L58.8458278,13 C57.5085497,13 57.0236203,12.8607616 56.5347314,12.5993009 C56.0458426,12.3378403 55.6621597,11.9541574 55.4006991,11.4652686 C55.1392384,10.9763797 55,10.4914503 55,9.1541722 L55,6.8458278 C55,5.50854969 55.1392384,5.02362033 55.4006991,4.53473144 C55.6621597,4.04584256 56.0458426,3.66215969 56.5347314,3.40069906 C57.0236203,3.13923842 57.5085497,3 58.8458278,3 Z" id="Rectangle-Copy-1099" fill="#F8F2F2" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="Group-25" transform="translate(12.000000, 27.000000)">
+                            <mask id="mask-26" fill="white">
+                                <use xlink:href="#path-25"></use>
+                            </mask>
+                            <use id="Line-3-Copy-2" stroke="#DEDEDF" stroke-width="0.5" stroke-linecap="round" xlink:href="#path-25"></use>
+                            <path d="M0.5,71.5 L294.991086,71.5" id="Line-3-Copy" stroke="#000000" stroke-width="0.5" opacity="0.100000001" stroke-linecap="round" mask="url(#mask-26)"></path>
+                            <path d="M-1.49892535,81.2094456 L29.9241885,89.311748 C49.4105182,94.3362066 70.035887,87.5167317 82.6864903,71.8666689 L82.6864903,71.8666689 C95.9606795,55.4451678 115.332653,45.115967 136.365229,43.2449873 L173.248454,39.9639927 C181.53241,39.2270828 189.641978,37.151283 197.261205,33.8174677 L197.261205,33.8174677 C204.689009,30.5674106 213.029096,30.0585028 220.796954,32.3813287 L221.119316,32.4777249 C228.413857,34.6590144 236.266089,31.6906848 240.293537,25.2294156 L251.027312,8.00912998 C255.122493,1.4391972 263.768276,-0.56698574 270.338208,3.52819497 C272.508631,4.88106651 274.26757,6.80195093 275.424544,9.08283012 L285.3083,28.5678477 C286.214566,30.3544775 287.295435,32.0470258 288.535102,33.6207443 L288.535102,33.6207443 C289.757138,35.1720807 291.358606,36.3820412 293.184795,37.1337375 L296.715148,38.5869014 L296.715148,81.2094456 L278.931864,115.655762 C276.860814,119.667397 272.814798,122.277052 268.306084,122.509326 L268.306084,122.509326 C263.620813,122.750695 259.013708,121.237629 255.383847,118.265402 L234.669144,101.303652 C231.564937,98.7618448 227.751427,97.2408361 223.749994,96.9485769 L223.749994,96.9485769 C219.68498,96.6516739 215.599942,97.100783 211.696525,98.2737352 L190.039456,104.781547 C185.496855,106.14657 180.680508,106.326406 176.048761,105.303942 L176.032681,105.300392 C171.614496,104.325071 166.998067,105.561045 163.65824,108.613448 L163.65824,108.613448 C160.261475,111.717888 155.724731,113.266511 151.138716,112.887003 L132.662311,111.358016 C130.698236,111.195482 128.725256,111.169297 126.757559,111.27965 L126.757559,111.27965 C124.898332,111.38392 123.198007,112.361531 122.172497,113.915856 L111.347142,130.323431 C106.324209,137.936498 96.4816046,140.719993 88.2155162,136.865068 L87.8044302,136.673357 C78.9448089,132.541636 68.7105753,132.544202 59.8530265,136.680364 L59.8530265,136.680364 C51.5046653,140.578753 41.599117,138.707684 35.2479724,132.032691 L19.0395922,114.997836 C16.9125168,112.762299 14.6831056,110.626417 12.3585155,108.597044 L-1.49892535,96.4994658 L-1.49892535,81.2094456 Z" id="Path-2-Copy" stroke="#C07D7E" stroke-width="0.5" stroke-dasharray="2" fill-rule="nonzero" mask="url(#mask-26)"></path>
+                            <path d="M-1.49892535,78.1358189 L29.4566125,89.4347385 C40.0310777,93.294469 51.6581652,93.1149699 62.1084465,88.9306593 L62.7634719,88.668386 C73.0514226,84.5490729 82.4562942,78.4995546 90.4709362,70.8460467 L90.4709362,70.8460467 C98.3445776,63.327186 108.453953,58.5789105 119.267996,57.3203476 L177.245248,50.5728226 C182.909156,49.9136441 188.506306,48.7712292 193.9755,47.1580687 L197.261205,46.1889369 C204.816673,43.9604218 212.80181,43.6092072 220.523758,45.1657675 L221.119316,45.2858177 C228.791475,46.8323415 236.715107,44.2696784 242.028603,38.5233311 L251.479279,28.3027789 C257.334988,21.970048 267.215672,21.5833458 273.548403,27.4390555 C274.234655,28.0736148 274.862555,28.7684998 275.424544,29.515344 L285.195865,42.500755 C286.176389,43.8038038 287.296086,44.9960413 288.535102,46.0563259 L288.535102,46.0563259 C289.76285,47.1069684 291.206179,47.875419 292.763275,48.3074704 L296.715148,49.4040071 L296.715148,78.1358189 L280.017109,99.9390033 C277.212445,103.601147 272.916052,105.815933 268.306084,105.976024 L268.306084,105.976024 C263.541187,106.141496 258.820557,105.012161 254.646439,102.708173 L235.288794,92.0233307 C231.742493,90.0658782 227.795756,88.9447448 223.749994,88.7455507 L223.749994,88.7455507 C219.666624,88.5445049 215.574119,88.8533833 211.567183,89.6650383 L190.529583,93.9264664 C185.730117,94.898658 180.742417,94.1960762 176.398273,91.9358896 L176.398273,91.9358896 C172.405169,89.8583428 167.524845,90.6204222 164.355228,93.8164527 L164.007752,94.1668242 C160.500256,97.7035488 155.359882,99.0772162 150.555698,97.7616301 L135.644566,93.678339 C125.783021,90.9778361 115.375196,95.5345307 110.670387,104.612391 L110.650097,104.651541 C106.419022,112.815339 96.3709922,116.003441 88.2071943,111.772366 C87.9656099,111.647159 87.7271312,111.516049 87.4919731,111.379153 L86.0663108,110.549213 C77.6778636,105.665933 67.2508377,105.938999 59.1294834,111.254644 L59.1294834,111.254644 C51.1350212,116.487234 40.7531667,116.295989 32.9568432,110.772515 L19.2958117,101.094061 C16.9978091,99.4659913 14.6320558,97.9357255 12.2048788,96.5073563 L-1.49892535,88.4428053 L-1.49892535,78.1358189 Z" id="Path-2" stroke="#C07D7E" stroke-width="0.5" fill-opacity="0.1" fill="#C07D7E" fill-rule="nonzero" stroke-dasharray="2" mask="url(#mask-26)"></path>
+                            <path d="M0,83.1227049 L28.1775603,92.2488836 C34.163753,94.1876982 39.2039369,98.303206 42.3005377,103.780849 L46.073049,110.454124 C46.4383793,111.100365 47.2584196,111.328087 47.9046602,110.962757 C48.0769385,110.865365 48.225586,110.731133 48.3399865,110.569648 L48.3399865,110.569648 C49.149075,109.427556 49.7357944,108.14328 50.0694582,106.783991 L50.638287,104.466679 C51.1571795,102.352799 52.1371642,100.379842 53.5080359,98.6891474 L53.5080359,98.6891474 C54.7711515,97.1313485 56.8406037,96.4753881 58.7704743,97.0210968 L62.2168946,97.9956395 C66.4284233,99.1865315 70.9490081,98.5019748 74.6191241,96.1175572 L77.9425324,93.9583903 C81.2364961,91.818353 85.6416243,92.7537952 87.7816615,96.047759 C88.0116822,96.4018087 88.2097204,96.775637 88.3734304,97.1648153 L91.4217711,104.411462 C91.5765154,104.779327 91.9145513,105.03769 92.3101358,105.090446 L92.3101358,105.090446 C92.6647695,105.13774 92.9920031,104.892448 93.0460812,104.538785 L97.8552068,73.0878628 C97.9300624,72.5983186 98.3875988,72.2621472 98.877143,72.3370028 C99.1914092,72.3850569 99.4567367,72.595921 99.5745087,72.8912212 L99.5745087,72.8912212 C100.381854,74.915551 100.815153,77.0695849 100.853345,79.2486349 L101.163106,96.9217408 C101.229912,100.73334 101.829535,104.51686 102.944548,108.162336 L102.944548,108.162336 C103.130522,108.770371 103.774195,109.112519 104.38223,108.926544 C104.826412,108.790686 105.145445,108.401214 105.191188,107.938977 L108.703597,72.4459407 C108.803666,71.4347421 109.659786,70.6676097 110.675864,70.6786782 L110.675864,70.6786782 C111.800248,70.6909265 112.846991,71.2543242 113.476466,72.1860706 L122.205764,85.1071498 C123.068819,86.384641 124.325437,87.345353 125.784544,87.8432043 L125.784544,87.8432043 C126.983875,88.2524195 128.287859,87.611904 128.697075,86.4125729 C128.705691,86.3873202 128.713866,86.3619191 128.721596,86.3363813 L129.934594,82.3291058 C130.471247,80.5562133 132.343504,79.5540429 134.116396,80.0906956 C134.578454,80.23056 135.004873,80.4685248 135.366514,80.7883294 L135.366514,80.7883294 C136.573697,81.8558575 138.417714,81.7426453 139.485242,80.5354628 C139.84372,80.1300886 140.082407,79.6330122 140.174626,79.099786 L141.503974,71.4133403 C141.678886,70.4019765 142.640553,69.7238986 143.651917,69.8988109 C144.466098,70.0396212 145.089535,70.7010712 145.181966,71.5221533 L147.256101,89.9470536 C147.389661,91.1334911 147.79337,92.2735341 148.436222,93.2796223 L148.436222,93.2796223 C148.763393,93.7916578 149.443705,93.9415199 149.95574,93.6143488 C150.105035,93.5189553 150.229084,93.3889189 150.31734,93.2352971 L150.742263,92.4956567 C151.621229,90.9656913 152.221516,89.2917934 152.515166,87.5519242 L156.168761,65.9044584 C156.313776,65.0452463 156.946654,64.3495777 157.788358,64.1241721 L157.788358,64.1241721 C158.605361,63.9053819 159.468162,64.2568382 159.899743,64.9842307 L169.278228,80.79086 C169.509929,81.1813726 169.936493,81.4140688 170.390267,81.3974918 L170.390267,81.3974918 C170.839361,81.3810857 171.238299,81.1060323 171.413332,80.6921259 L171.963152,79.3919417 C172.338013,78.5054901 173.360509,78.0907643 174.246961,78.4656257 C174.358209,78.5126701 174.464264,78.571153 174.563417,78.6401312 L175.797566,79.4986979 C176.867593,80.2430888 178.338468,79.979109 179.082859,78.9090826 C179.273722,78.6347269 179.404139,78.3229636 179.465481,77.9944262 L180.961011,69.9845362 C181.255735,68.4060289 182.36536,67.1021623 183.876415,66.5587844 L183.876415,66.5587844 C185.296274,66.0482009 186.879367,66.6071944 187.663815,67.896123 L191.99342,75.0101125 C193.402684,77.3256787 195.233583,79.356508 197.391239,80.9973597 L197.391239,80.9973597 C198.442094,81.7965131 199.941822,81.5924684 200.740976,80.5416131 C200.991022,80.2128124 201.151597,79.8248271 201.207044,79.415488 L202.842347,67.3429305 C203.163495,64.9720735 203.802029,62.6551744 204.740783,60.4545289 L205.38993,58.9327827 C205.713398,58.1745038 206.590326,57.8220194 207.348605,58.1454866 C207.469807,58.1971892 207.58363,58.2647129 207.687106,58.3462972 L207.687106,58.3462972 C208.667094,59.1189594 209.296155,60.2524619 209.433351,61.492849 L210.918046,74.9159223 C211.001978,75.6747442 211.685164,76.221851 212.443986,76.1379195 C213.108757,76.0643908 213.625536,75.5254842 213.671145,74.8582166 L214.402622,64.1565363 C214.514116,62.5253576 215.926831,61.2934095 217.55801,61.4049033 C218.76028,61.4870805 219.792752,62.2898225 220.168747,63.4347388 L222.300567,69.9261873 C222.654406,71.0036358 223.814693,71.5902375 224.892142,71.2363988 C225.617373,70.9982299 226.150634,70.377422 226.276676,69.6245623 L226.276676,69.6245623 C226.45567,68.5554161 227.467487,67.833805 228.536633,68.0127989 C229.270588,68.1356759 229.871933,68.6630526 230.089544,69.3746941 L232.520154,77.3233858 C232.975603,78.8128155 234.552238,79.6510226 236.041668,79.1955738 C236.929349,78.9241321 237.626605,78.2332435 237.906178,77.3480898 L240.230681,69.9885031 C240.479848,69.1996171 241.162445,68.6257665 241.98241,68.515846 L241.98241,68.515846 C242.751746,68.4127126 243.478764,68.8944881 243.683612,69.6431882 L245.837166,77.5142103 C246.630815,80.4149199 248.173316,83.0559194 250.309924,85.1722614 L253.233295,88.0679036 C253.458595,88.2910672 253.681888,88.5162484 253.903147,88.7434199 L254.755089,89.6181283 C255.065807,89.9371497 255.576311,89.9438809 255.895332,89.633163 C256.028236,89.5037186 256.112438,89.3324042 256.133739,89.148107 L262.215242,36.5321611 C262.279677,35.9746763 262.678813,35.5134662 263.221274,35.369669 L263.221274,35.369669 C263.760864,35.2266327 264.332215,35.4372335 264.649886,35.8962573 L265.541439,37.1845248 C266.467869,38.5231875 266.976285,40.1066274 267.002325,41.7343902 L267.655369,82.5561148 C267.68413,84.35392 267.804358,86.1490971 268.015587,87.934682 L268.72958,93.970278 C268.818683,94.7234945 269.501518,95.2618646 270.254735,95.1727614 C270.847447,95.1026453 271.327016,94.6577331 271.441311,94.0719337 L275.547034,73.0288331 C275.679475,72.3500321 276.337117,71.9071198 277.015918,72.0395608 C277.565351,72.1467608 277.976896,72.6055957 278.023937,73.1634089 L278.705568,81.246246 C278.727682,81.5084725 278.958185,81.7031225 279.220412,81.6810087 C279.312269,81.6732623 279.399907,81.6390371 279.472703,81.5824816 L279.472703,81.5824816 C279.918252,81.236331 280.215824,80.7339825 280.305307,80.1769119 L281.349939,73.6736318 C281.550426,72.4255184 282.060905,71.2476674 282.83461,70.2479861 L282.83461,70.2479861 C283.59824,69.261322 284.672749,68.5615138 285.883924,68.2620242 L295.66464,65.8435263" id="Path-3" stroke="#C07D7E" fill-rule="nonzero" mask="url(#mask-26)"></path>
+                        </g>
+                        <circle id="Oval-4" fill="#C07D7E" fill-rule="nonzero" cx="307" cy="93" r="3"></circle>
+                        <g id="Group-12" opacity="0.5" transform="translate(268.000000, 2.000000)"></g>
+                    </g>
+                    <g id="Search" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(367.000000, 70.000000)">
+                        <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,30.8722296 C0.5,32.4223805 0.623018378,33.0594219 0.975172007,33.717892 C1.27718629,34.2826096 1.71739041,34.7228137 2.28210802,35.024828 C2.94057806,35.3769816 3.5776195,35.5 5.1277704,35.5 L259.87223,35.5 C261.42238,35.5 262.059422,35.3769816 262.717892,35.024828 C263.28261,34.7228137 263.722814,34.2826096 264.024828,33.717892 C264.376982,33.0594219 264.5,32.4223805 264.5,30.8722296 L264.5,5.1277704 C264.5,3.5776195 264.376982,2.94057806 264.024828,2.28210802 C263.722814,1.71739041 263.28261,1.27718629 262.717892,0.975172007 C262.059422,0.623018378 261.42238,0.5 259.87223,0.5 L5.1277704,0.5 Z" id="background" stroke="#DEDEDF"></path>
+                        <text id="Search..." opacity="0.5" font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="11" y="23">Choose variables...</tspan>
+                        </text>
+                        <g id="icon-triangle" transform="translate(246.000000, 19.000000) scale(-1, 1) translate(-246.000000, -19.000000) translate(242.000000, 17.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                    </g>
+                    <g id="Search-Copy" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(639.000000, 69.000000)">
+                        <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,30.8722296 C0.5,32.4223805 0.623018378,33.0594219 0.975172007,33.717892 C1.27718629,34.2826096 1.71739041,34.7228137 2.28210802,35.024828 C2.94057806,35.3769816 3.5776195,35.5 5.1277704,35.5 L109.87223,35.5 C111.42238,35.5 112.059422,35.3769816 112.717892,35.024828 C113.28261,34.7228137 113.722814,34.2826096 114.024828,33.717892 C114.376982,33.0594219 114.5,32.4223805 114.5,30.8722296 L114.5,5.1277704 C114.5,3.5776195 114.376982,2.94057806 114.024828,2.28210802 C113.722814,1.71739041 113.28261,1.27718629 112.717892,0.975172007 C112.059422,0.623018378 111.42238,0.5 109.87223,0.5 L5.1277704,0.5 Z" id="background" stroke="#DEDEDF"></path>
+                        <text id="Search..." font-family="AvenirNext-Regular, Avenir Next" font-size="14" font-weight="normal" fill="#333333">
+                            <tspan x="11" y="23">2 columns</tspan>
+                        </text>
+                        <g id="icon-triangle" transform="translate(96.000000, 19.000000) scale(-1, 1) translate(-96.000000, -19.000000) translate(92.000000, 17.000000)" fill="#4D4D4D">
+                            <path d="M0.705912054,0.705912054 C0.316047592,0.316047592 0.453036308,0 0.997030139,0 L7.00296986,0 C7.5536144,0 7.68612671,0.313873291 7.29408795,0.705912054 L4.35497332,3.64502668 C4.15892697,3.84107303 3.84807968,3.84807968 3.64502668,3.64502668 L0.705912054,0.705912054 Z" id="Triangle-1"></path>
+                        </g>
+                    </g>
+                    <g id="Tile" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(717.000000, 130.000000)">
+                        <text id="3" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="169">3</tspan>
+                        </text>
+                        <text id="6" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="102">6</tspan>
+                        </text>
+                        <text id="9" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="35">9</tspan>
+                        </text>
+                        <text id="Income" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="11" y="14">Income</tspan>
+                        </text>
+                        <g id="Group-2" transform="translate(254.300000, 0.000000)">
+                            <rect id="Rectangle-9" fill="#4E75B6" fill-rule="nonzero" x="0.8" y="0" width="52" height="16" rx="1"></rect>
+                            <text id="6.11-£M" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">
+                                <tspan x="4.884" y="12">6.11 £M</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(73.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="58.5" height="16.5" rx="1"></rect>
+                            <text id="100-agents" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.63" y="11">100 agents</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(13.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke-opacity="0.289685236" stroke="#4E75B6" stroke-width="0.5" fill="#FFFFFF" x="-0.25" y="-0.25" width="57.5" height="16.5" rx="1"></rect>
+                            <text id="household" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#4E75B6">
+                                <tspan x="5" y="11">household</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy" transform="translate(134.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="41.5" height="16.5" rx="1"></rect>
+                            <text id="10-runs" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.3" y="11">10 runs</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy-2" transform="translate(215.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="92.5" height="16.5" rx="1"></rect>
+                            <text id="IQR" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="72.29" y="11">IQR</tspan>
+                            </text>
+                            <text id="total" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="20.3" y="11">total</tspan>
+                            </text>
+                            <path d="M7.38235294,8.5 L15.3823529,8.5" id="Line-3" stroke="#4E75B6" fill-rule="nonzero"></path>
+                            <path d="M58.8458278,3 L63.1541722,3 C64.4914503,3 64.9763797,3.13923842 65.4652686,3.40069906 C65.9541574,3.66215969 66.3378403,4.04584256 66.5993009,4.53473144 C66.8607616,5.02362033 67,5.50854969 67,6.8458278 L67,9.1541722 C67,10.4914503 66.8607616,10.9763797 66.5993009,11.4652686 C66.3378403,11.9541574 65.9541574,12.3378403 65.4652686,12.5993009 C64.9763797,12.8607616 64.4914503,13 63.1541722,13 L58.8458278,13 C57.5085497,13 57.0236203,12.8607616 56.5347314,12.5993009 C56.0458426,12.3378403 55.6621597,11.9541574 55.4006991,11.4652686 C55.1392384,10.9763797 55,10.4914503 55,9.1541722 L55,6.8458278 C55,5.50854969 55.1392384,5.02362033 55.4006991,4.53473144 C55.6621597,4.04584256 56.0458426,3.66215969 56.5347314,3.40069906 C57.0236203,3.13923842 57.5085497,3 58.8458278,3 Z" id="Rectangle-Copy-1099" fill-opacity="0.100571784" fill="#4E75B6" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="Group-25" transform="translate(12.000000, 27.000000)">
+                            <mask id="mask-28" fill="white">
+                                <use xlink:href="#path-27"></use>
+                            </mask>
+                            <use id="Line-3-Copy-2" stroke="#DEDEDF" stroke-width="0.5" stroke-linecap="round" xlink:href="#path-27"></use>
+                            <path d="M0.5,71.5 L294.991086,71.5" id="Line-3-Copy" stroke="#000000" stroke-width="0.5" opacity="0.100000001" stroke-linecap="round" mask="url(#mask-28)"></path>
+                            <path d="M-1.49892535,79.0194689 L29.9241885,87.1217713 C49.4105182,92.1462299 70.035887,85.326755 82.6864903,69.6766922 L82.6864903,69.6766922 C95.9606795,53.2551911 115.332653,42.9259903 136.365229,41.0550106 L173.248454,37.774016 C181.53241,37.0371061 189.641978,34.9613063 197.261205,31.627491 L197.261205,31.627491 C204.689009,28.3774339 213.029096,27.8685261 220.796954,30.191352 L221.119316,30.2877482 C228.705051,32.5561137 236.922405,30.3949257 242.410633,24.6880697 L248.914614,17.9249984 C255.640246,10.9314453 266.726453,10.6083542 273.847958,17.198353 L284.46005,27.0184231 C285.93177,28.3803027 287.294306,29.8556163 288.535102,31.4307676 L288.535102,31.4307676 C289.757138,32.982104 291.358606,34.1920645 293.184795,34.9437608 L296.715148,36.3969247 L296.715148,79.0194689 L278.931864,113.465786 C276.860814,117.47742 272.814798,120.087076 268.306084,120.319349 L268.306084,120.319349 C263.620813,120.560718 259.013708,119.047652 255.383847,116.075425 L234.669144,99.1136752 C231.564937,96.5718681 227.751427,95.0508594 223.749994,94.7586002 L223.749994,94.7586002 C219.68498,94.4616972 215.599942,94.9108063 211.696525,96.0837585 L190.039456,102.591571 C185.496855,103.956593 180.680508,104.13643 176.048761,103.113965 L176.032681,103.110415 C171.614496,102.135094 166.998067,103.371068 163.65824,106.423471 L163.65824,106.423471 C160.261475,109.527912 155.724731,111.076534 151.138716,110.697026 L132.662311,109.168039 C130.698236,109.005505 128.725256,108.97932 126.757559,109.089673 L126.757559,109.089673 C124.898332,109.193943 123.198007,110.171554 122.172497,111.72588 L111.347142,128.133454 C106.324209,135.746522 96.4816046,138.530016 88.2155162,134.675092 L87.8044302,134.48338 C78.9448089,130.351659 68.7105753,130.354225 59.8530265,134.490387 L59.8530265,134.490387 C51.5046653,138.388776 41.599117,136.517708 35.2479724,129.842714 L19.0395922,112.807859 C16.9125168,110.572323 14.6831056,108.43644 12.3585155,106.407067 L-1.49892535,94.3094891 L-1.49892535,79.0194689 Z" id="Path-2-Copy" stroke="#4E75B6" stroke-width="0.5" stroke-dasharray="2" fill-rule="nonzero" mask="url(#mask-28)" transform="translate(147.608111, 74.482562) scale(1, -1) translate(-147.608111, -74.482562) "></path>
+                            <path d="M-1.49892535,86.1358189 L29.4566125,97.4347385 C40.0310777,101.294469 51.6581652,101.11497 62.1084465,96.9306593 L62.7634719,96.668386 C73.0514226,92.5490729 82.4562942,86.4995546 90.4709362,78.8460467 L90.4709362,78.8460467 C98.3445776,71.327186 108.453953,66.5789105 119.267996,65.3203476 L177.245248,58.5728226 C182.909156,57.9136441 188.506306,56.7712292 193.9755,55.1580687 L197.261205,54.1889369 C204.816673,51.9604218 212.80181,51.6092072 220.523758,53.1657675 L221.119316,53.2858177 C228.791475,54.8323415 236.715107,52.2696784 242.028603,46.5233311 L251.479279,36.3027789 C257.334988,29.970048 267.215672,29.5833458 273.548403,35.4390555 C274.234655,36.0736148 274.862555,36.7684998 275.424544,37.515344 L285.195865,50.500755 C286.176389,51.8038038 287.296086,52.9960413 288.535102,54.0563259 L288.535102,54.0563259 C289.76285,55.1069684 291.206179,55.875419 292.763275,56.3074704 L296.715148,57.4040071 L296.715148,86.1358189 L280.017109,107.939003 C277.212445,111.601147 272.916052,113.815933 268.306084,113.976024 L268.306084,113.976024 C263.541187,114.141496 258.820557,113.012161 254.646439,110.708173 L235.288794,100.023331 C231.742493,98.0658782 227.795756,96.9447448 223.749994,96.7455507 L223.749994,96.7455507 C219.666624,96.5445049 215.574119,96.8533833 211.567183,97.6650383 L190.529583,101.926466 C185.730117,102.898658 180.742417,102.196076 176.398273,99.9358896 L176.398273,99.9358896 C172.405169,97.8583428 167.524845,98.6204222 164.355228,101.816453 L164.007752,102.166824 C160.500256,105.703549 155.359882,107.077216 150.555698,105.76163 L135.644566,101.678339 C125.783021,98.9778361 115.375196,103.534531 110.670387,112.612391 L110.650097,112.651541 C106.419022,120.815339 96.3709922,124.003441 88.2071943,119.772366 C87.9656099,119.647159 87.7271312,119.516049 87.4919731,119.379153 L86.0663108,118.549213 C77.6778636,113.665933 67.2508377,113.938999 59.1294834,119.254644 L59.1294834,119.254644 C51.1350212,124.487234 40.7531667,124.295989 32.9568432,118.772515 L19.2958117,109.094061 C16.9978091,107.465991 14.6320558,105.935726 12.2048788,104.507356 L-1.49892535,96.4428053 L-1.49892535,86.1358189 Z" id="Path-2" stroke="#4E75B6" stroke-width="0.5" fill-opacity="0.100571784" fill="#4E75B6" fill-rule="nonzero" stroke-dasharray="2" mask="url(#mask-28)" transform="translate(147.608111, 77.169643) scale(1, -1) translate(-147.608111, -77.169643) "></path>
+                            <path d="M0,83.1227049 L28.1775603,92.2488836 C34.163753,94.1876982 39.2039369,98.303206 42.3005377,103.780849 L46.073049,110.454124 C46.4383793,111.100365 47.2584196,111.328087 47.9046602,110.962757 C48.0769385,110.865365 48.225586,110.731133 48.3399865,110.569648 L48.3399865,110.569648 C49.149075,109.427556 49.7357944,108.14328 50.0694582,106.783991 L50.638287,104.466679 C51.1571795,102.352799 52.1371642,100.379842 53.5080359,98.6891474 L53.5080359,98.6891474 C54.7711515,97.1313485 56.8406037,96.4753881 58.7704743,97.0210968 L62.2168946,97.9956395 C66.4284233,99.1865315 70.9490081,98.5019748 74.6191241,96.1175572 L77.9425324,93.9583903 C81.2364961,91.818353 85.6416243,92.7537952 87.7816615,96.047759 C88.0116822,96.4018087 88.2097204,96.775637 88.3734304,97.1648153 L91.4217711,104.411462 C91.5765154,104.779327 91.9145513,105.03769 92.3101358,105.090446 L92.3101358,105.090446 C92.6647695,105.13774 92.9920031,104.892448 93.0460812,104.538785 L97.8552068,73.0878628 C97.9300624,72.5983186 98.3875988,72.2621472 98.877143,72.3370028 C99.1914092,72.3850569 99.4567367,72.595921 99.5745087,72.8912212 L99.5745087,72.8912212 C100.381854,74.915551 100.815153,77.0695849 100.853345,79.2486349 L101.163106,96.9217408 C101.229912,100.73334 101.829535,104.51686 102.944548,108.162336 L102.944548,108.162336 C103.130522,108.770371 103.774195,109.112519 104.38223,108.926544 C104.826412,108.790686 105.145445,108.401214 105.191188,107.938977 L108.703597,72.4459407 C108.803666,71.4347421 109.659786,70.6676097 110.675864,70.6786782 L110.675864,70.6786782 C111.800248,70.6909265 112.846991,71.2543242 113.476466,72.1860706 L122.205764,85.1071498 C123.068819,86.384641 124.325437,87.345353 125.784544,87.8432043 L125.784544,87.8432043 C126.983875,88.2524195 128.287859,87.611904 128.697075,86.4125729 C128.705691,86.3873202 128.713866,86.3619191 128.721596,86.3363813 L129.934594,82.3291058 C130.471247,80.5562133 132.343504,79.5540429 134.116396,80.0906956 C134.578454,80.23056 135.004873,80.4685248 135.366514,80.7883294 L135.366514,80.7883294 C136.573697,81.8558575 138.417714,81.7426453 139.485242,80.5354628 C139.84372,80.1300886 140.082407,79.6330122 140.174626,79.099786 L141.503974,71.4133403 C141.678886,70.4019765 142.640553,69.7238986 143.651917,69.8988109 C144.466098,70.0396212 145.089535,70.7010712 145.181966,71.5221533 L147.256101,89.9470536 C147.389661,91.1334911 147.79337,92.2735341 148.436222,93.2796223 L148.436222,93.2796223 C148.763393,93.7916578 149.443705,93.9415199 149.95574,93.6143488 C150.105035,93.5189553 150.229084,93.3889189 150.31734,93.2352971 L150.742263,92.4956567 C151.621229,90.9656913 152.221516,89.2917934 152.515166,87.5519242 L156.168761,65.9044584 C156.313776,65.0452463 156.946654,64.3495777 157.788358,64.1241721 L157.788358,64.1241721 C158.605361,63.9053819 159.468162,64.2568382 159.899743,64.9842307 L169.278228,80.79086 C169.509929,81.1813726 169.936493,81.4140688 170.390267,81.3974918 L170.390267,81.3974918 C170.839361,81.3810857 171.238299,81.1060323 171.413332,80.6921259 L171.963152,79.3919417 C172.338013,78.5054901 173.360509,78.0907643 174.246961,78.4656257 C174.358209,78.5126701 174.464264,78.571153 174.563417,78.6401312 L175.797566,79.4986979 C176.867593,80.2430888 178.338468,79.979109 179.082859,78.9090826 C179.273722,78.6347269 179.404139,78.3229636 179.465481,77.9944262 L180.961011,69.9845362 C181.255735,68.4060289 182.36536,67.1021623 183.876415,66.5587844 L183.876415,66.5587844 C185.296274,66.0482009 186.879367,66.6071944 187.663815,67.896123 L191.99342,75.0101125 C193.402684,77.3256787 195.233583,79.356508 197.391239,80.9973597 L197.391239,80.9973597 C198.442094,81.7965131 199.941822,81.5924684 200.740976,80.5416131 C200.991022,80.2128124 201.151597,79.8248271 201.207044,79.415488 L202.842347,67.3429305 C203.163495,64.9720735 203.802029,62.6551744 204.740783,60.4545289 L205.38993,58.9327827 C205.713398,58.1745038 206.590326,57.8220194 207.348605,58.1454866 C207.469807,58.1971892 207.58363,58.2647129 207.687106,58.3462972 L207.687106,58.3462972 C208.667094,59.1189594 209.296155,60.2524619 209.433351,61.492849 L210.918046,74.9159223 C211.001978,75.6747442 211.685164,76.221851 212.443986,76.1379195 C213.108757,76.0643908 213.625536,75.5254842 213.671145,74.8582166 L214.402622,64.1565363 C214.514116,62.5253576 215.926831,61.2934095 217.55801,61.4049033 C218.76028,61.4870805 219.792752,62.2898225 220.168747,63.4347388 L222.300567,69.9261873 C222.654406,71.0036358 223.814693,71.5902375 224.892142,71.2363988 C225.617373,70.9982299 226.150634,70.377422 226.276676,69.6245623 L226.276676,69.6245623 C226.45567,68.5554161 227.467487,67.833805 228.536633,68.0127989 C229.270588,68.1356759 229.871933,68.6630526 230.089544,69.3746941 L232.520154,77.3233858 C232.975603,78.8128155 234.552238,79.6510226 236.041668,79.1955738 C236.929349,78.9241321 237.626605,78.2332435 237.906178,77.3480898 L240.230681,69.9885031 C240.479848,69.1996171 241.162445,68.6257665 241.98241,68.515846 L241.98241,68.515846 C242.751746,68.4127126 243.478764,68.8944881 243.683612,69.6431882 L245.837166,77.5142103 C246.630815,80.4149199 248.173316,83.0559194 250.309924,85.1722614 L253.233295,88.0679036 C253.458595,88.2910672 253.681888,88.5162484 253.903147,88.7434199 L254.755089,89.6181283 C255.065807,89.9371497 255.576311,89.9438809 255.895332,89.633163 C256.028236,89.5037186 256.112438,89.3324042 256.133739,89.148107 L262.215242,36.5321611 C262.279677,35.9746763 262.678813,35.5134662 263.221274,35.369669 L263.221274,35.369669 C263.760864,35.2266327 264.332215,35.4372335 264.649886,35.8962573 L265.541439,37.1845248 C266.467869,38.5231875 266.976285,40.1066274 267.002325,41.7343902 L267.655369,82.5561148 C267.68413,84.35392 267.804358,86.1490971 268.015587,87.934682 L268.72958,93.970278 C268.818683,94.7234945 269.501518,95.2618646 270.254735,95.1727614 C270.847447,95.1026453 271.327016,94.6577331 271.441311,94.0719337 L275.547034,73.0288331 C275.679475,72.3500321 276.337117,71.9071198 277.015918,72.0395608 C277.565351,72.1467608 277.976896,72.6055957 278.023937,73.1634089 L278.705568,81.246246 C278.727682,81.5084725 278.958185,81.7031225 279.220412,81.6810087 C279.312269,81.6732623 279.399907,81.6390371 279.472703,81.5824816 L279.472703,81.5824816 C279.918252,81.236331 280.215824,80.7339825 280.305307,80.1769119 L281.349939,73.6736318 C281.550426,72.4255184 282.060905,71.2476674 282.83461,70.2479861 L282.83461,70.2479861 C283.59824,69.261322 284.672749,68.5615138 285.883924,68.2620242 L295.66464,65.8435263" id="Path-3" stroke="#4E75B6" fill-rule="nonzero" mask="url(#mask-28)" transform="translate(147.832320, 73.231196) scale(1, -1) translate(-147.832320, -73.231196) "></path>
+                        </g>
+                        <circle id="Oval-4" fill="#4E75B6" fill-rule="nonzero" cx="307" cy="107" r="3"></circle>
+                        <g id="Group-12" opacity="0.5" transform="translate(268.000000, 2.000000)"></g>
+                    </g>
+                    <g id="Tile" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(717.000000, 367.000000)">
+                        <text id="3" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="169">3</tspan>
+                        </text>
+                        <text id="6" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="102">6</tspan>
+                        </text>
+                        <text id="9" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" letter-spacing="-0.14" fill="#7F7F7F">
+                            <tspan x="0.34" y="35">9</tspan>
+                        </text>
+                        <text id="Income" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" fill="#3A3941">
+                            <tspan x="11" y="14">Income</tspan>
+                        </text>
+                        <g id="Group-2" transform="translate(257.300000, 0.000000)">
+                            <rect id="Rectangle-9" fill="#C07D7E" fill-rule="nonzero" x="0.8" y="0" width="49" height="16" rx="1"></rect>
+                            <text id="6.11-£T" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">
+                                <tspan x="5.892" y="12">6.11 £T</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(54.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="58.5" height="16.5" rx="1"></rect>
+                            <text id="100-agents" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.63" y="11">100 agents</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3" transform="translate(13.000000, 177.000000)">
+                            <path d="M1,-0.25 L36,-0.25 C36.6903559,-0.25 37.25,0.309644063 37.25,1 L37.25,15 C37.25,15.6903559 36.6903559,16.25 36,16.25 L1,16.25 C0.309644063,16.25 -0.25,15.6903559 -0.25,15 L-0.25,1 C-0.25,0.309644063 0.309644063,-0.25 1,-0.25 Z" id="Rectangle-4" stroke="#C07D7E" stroke-width="0.5"></path>
+                            <text id="father" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#C07D7E">
+                                <tspan x="5" y="11">father</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy" transform="translate(115.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="41.5" height="16.5" rx="1"></rect>
+                            <text id="10-runs" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="4.3" y="11">10 runs</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3-Copy-2" transform="translate(215.000000, 177.000000)">
+                            <rect id="Rectangle-4" stroke="#DEDEDF" stroke-width="0.5" x="-0.25" y="-0.25" width="92.5" height="16.5" rx="1"></rect>
+                            <text id="IQR" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="72.29" y="11">IQR</tspan>
+                            </text>
+                            <text id="total" font-family="AvenirNext-Medium, Avenir Next" font-size="10" font-weight="400" letter-spacing="-0.2" fill="#3A3941">
+                                <tspan x="20.3" y="11">total</tspan>
+                            </text>
+                            <path d="M7.38235294,8.5 L15.3823529,8.5" id="Line-3" stroke="#C07D7E" fill-rule="nonzero"></path>
+                            <path d="M58.8458278,3 L63.1541722,3 C64.4914503,3 64.9763797,3.13923842 65.4652686,3.40069906 C65.9541574,3.66215969 66.3378403,4.04584256 66.5993009,4.53473144 C66.8607616,5.02362033 67,5.50854969 67,6.8458278 L67,9.1541722 C67,10.4914503 66.8607616,10.9763797 66.5993009,11.4652686 C66.3378403,11.9541574 65.9541574,12.3378403 65.4652686,12.5993009 C64.9763797,12.8607616 64.4914503,13 63.1541722,13 L58.8458278,13 C57.5085497,13 57.0236203,12.8607616 56.5347314,12.5993009 C56.0458426,12.3378403 55.6621597,11.9541574 55.4006991,11.4652686 C55.1392384,10.9763797 55,10.4914503 55,9.1541722 L55,6.8458278 C55,5.50854969 55.1392384,5.02362033 55.4006991,4.53473144 C55.6621597,4.04584256 56.0458426,3.66215969 56.5347314,3.40069906 C57.0236203,3.13923842 57.5085497,3 58.8458278,3 Z" id="Rectangle-Copy-1099" fill="#F8F2F2" fill-rule="nonzero"></path>
+                        </g>
+                        <g id="Group-25" transform="translate(12.000000, 27.000000)">
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <use id="Line-3-Copy-2" stroke="#DEDEDF" stroke-width="0.5" stroke-linecap="round" xlink:href="#path-29"></use>
+                            <path d="M0.5,71.5 L294.991086,71.5" id="Line-3-Copy" stroke="#000000" stroke-width="0.5" opacity="0.100000001" stroke-linecap="round" mask="url(#mask-30)"></path>
+                            <path d="M-1.49892535,81.2094456 L29.9241885,89.311748 C49.4105182,94.3362066 70.035887,87.5167317 82.6864903,71.8666689 L82.6864903,71.8666689 C95.9606795,55.4451678 115.332653,45.115967 136.365229,43.2449873 L173.248454,39.9639927 C181.53241,39.2270828 189.641978,37.151283 197.261205,33.8174677 L197.261205,33.8174677 C204.689009,30.5674106 213.029096,30.0585028 220.796954,32.3813287 L221.119316,32.4777249 C228.413857,34.6590144 236.266089,31.6906848 240.293537,25.2294156 L251.027312,8.00912998 C255.122493,1.4391972 263.768276,-0.56698574 270.338208,3.52819497 C272.508631,4.88106651 274.26757,6.80195093 275.424544,9.08283012 L285.3083,28.5678477 C286.214566,30.3544775 287.295435,32.0470258 288.535102,33.6207443 L288.535102,33.6207443 C289.757138,35.1720807 291.358606,36.3820412 293.184795,37.1337375 L296.715148,38.5869014 L296.715148,81.2094456 L278.931864,115.655762 C276.860814,119.667397 272.814798,122.277052 268.306084,122.509326 L268.306084,122.509326 C263.620813,122.750695 259.013708,121.237629 255.383847,118.265402 L234.669144,101.303652 C231.564937,98.7618448 227.751427,97.2408361 223.749994,96.9485769 L223.749994,96.9485769 C219.68498,96.6516739 215.599942,97.100783 211.696525,98.2737352 L190.039456,104.781547 C185.496855,106.14657 180.680508,106.326406 176.048761,105.303942 L176.032681,105.300392 C171.614496,104.325071 166.998067,105.561045 163.65824,108.613448 L163.65824,108.613448 C160.261475,111.717888 155.724731,113.266511 151.138716,112.887003 L132.662311,111.358016 C130.698236,111.195482 128.725256,111.169297 126.757559,111.27965 L126.757559,111.27965 C124.898332,111.38392 123.198007,112.361531 122.172497,113.915856 L111.347142,130.323431 C106.324209,137.936498 96.4816046,140.719993 88.2155162,136.865068 L87.8044302,136.673357 C78.9448089,132.541636 68.7105753,132.544202 59.8530265,136.680364 L59.8530265,136.680364 C51.5046653,140.578753 41.599117,138.707684 35.2479724,132.032691 L19.0395922,114.997836 C16.9125168,112.762299 14.6831056,110.626417 12.3585155,108.597044 L-1.49892535,96.4994658 L-1.49892535,81.2094456 Z" id="Path-2-Copy" stroke="#C07D7E" stroke-width="0.5" stroke-dasharray="2" fill-rule="nonzero" mask="url(#mask-30)"></path>
+                            <path d="M-1.49892535,78.1358189 L29.4566125,89.4347385 C40.0310777,93.294469 51.6581652,93.1149699 62.1084465,88.9306593 L62.7634719,88.668386 C73.0514226,84.5490729 82.4562942,78.4995546 90.4709362,70.8460467 L90.4709362,70.8460467 C98.3445776,63.327186 108.453953,58.5789105 119.267996,57.3203476 L177.245248,50.5728226 C182.909156,49.9136441 188.506306,48.7712292 193.9755,47.1580687 L197.261205,46.1889369 C204.816673,43.9604218 212.80181,43.6092072 220.523758,45.1657675 L221.119316,45.2858177 C228.791475,46.8323415 236.715107,44.2696784 242.028603,38.5233311 L251.479279,28.3027789 C257.334988,21.970048 267.215672,21.5833458 273.548403,27.4390555 C274.234655,28.0736148 274.862555,28.7684998 275.424544,29.515344 L285.195865,42.500755 C286.176389,43.8038038 287.296086,44.9960413 288.535102,46.0563259 L288.535102,46.0563259 C289.76285,47.1069684 291.206179,47.875419 292.763275,48.3074704 L296.715148,49.4040071 L296.715148,78.1358189 L280.017109,99.9390033 C277.212445,103.601147 272.916052,105.815933 268.306084,105.976024 L268.306084,105.976024 C263.541187,106.141496 258.820557,105.012161 254.646439,102.708173 L235.288794,92.0233307 C231.742493,90.0658782 227.795756,88.9447448 223.749994,88.7455507 L223.749994,88.7455507 C219.666624,88.5445049 215.574119,88.8533833 211.567183,89.6650383 L190.529583,93.9264664 C185.730117,94.898658 180.742417,94.1960762 176.398273,91.9358896 L176.398273,91.9358896 C172.405169,89.8583428 167.524845,90.6204222 164.355228,93.8164527 L164.007752,94.1668242 C160.500256,97.7035488 155.359882,99.0772162 150.555698,97.7616301 L135.644566,93.678339 C125.783021,90.9778361 115.375196,95.5345307 110.670387,104.612391 L110.650097,104.651541 C106.419022,112.815339 96.3709922,116.003441 88.2071943,111.772366 C87.9656099,111.647159 87.7271312,111.516049 87.4919731,111.379153 L86.0663108,110.549213 C77.6778636,105.665933 67.2508377,105.938999 59.1294834,111.254644 L59.1294834,111.254644 C51.1350212,116.487234 40.7531667,116.295989 32.9568432,110.772515 L19.2958117,101.094061 C16.9978091,99.4659913 14.6320558,97.9357255 12.2048788,96.5073563 L-1.49892535,88.4428053 L-1.49892535,78.1358189 Z" id="Path-2" stroke="#C07D7E" stroke-width="0.5" fill-opacity="0.1" fill="#C07D7E" fill-rule="nonzero" stroke-dasharray="2" mask="url(#mask-30)"></path>
+                            <path d="M0,83.1227049 L28.1775603,92.2488836 C34.163753,94.1876982 39.2039369,98.303206 42.3005377,103.780849 L46.073049,110.454124 C46.4383793,111.100365 47.2584196,111.328087 47.9046602,110.962757 C48.0769385,110.865365 48.225586,110.731133 48.3399865,110.569648 L48.3399865,110.569648 C49.149075,109.427556 49.7357944,108.14328 50.0694582,106.783991 L50.638287,104.466679 C51.1571795,102.352799 52.1371642,100.379842 53.5080359,98.6891474 L53.5080359,98.6891474 C54.7711515,97.1313485 56.8406037,96.4753881 58.7704743,97.0210968 L62.2168946,97.9956395 C66.4284233,99.1865315 70.9490081,98.5019748 74.6191241,96.1175572 L77.9425324,93.9583903 C81.2364961,91.818353 85.6416243,92.7537952 87.7816615,96.047759 C88.0116822,96.4018087 88.2097204,96.775637 88.3734304,97.1648153 L91.4217711,104.411462 C91.5765154,104.779327 91.9145513,105.03769 92.3101358,105.090446 L92.3101358,105.090446 C92.6647695,105.13774 92.9920031,104.892448 93.0460812,104.538785 L97.8552068,73.0878628 C97.9300624,72.5983186 98.3875988,72.2621472 98.877143,72.3370028 C99.1914092,72.3850569 99.4567367,72.595921 99.5745087,72.8912212 L99.5745087,72.8912212 C100.381854,74.915551 100.815153,77.0695849 100.853345,79.2486349 L101.163106,96.9217408 C101.229912,100.73334 101.829535,104.51686 102.944548,108.162336 L102.944548,108.162336 C103.130522,108.770371 103.774195,109.112519 104.38223,108.926544 C104.826412,108.790686 105.145445,108.401214 105.191188,107.938977 L108.703597,72.4459407 C108.803666,71.4347421 109.659786,70.6676097 110.675864,70.6786782 L110.675864,70.6786782 C111.800248,70.6909265 112.846991,71.2543242 113.476466,72.1860706 L122.205764,85.1071498 C123.068819,86.384641 124.325437,87.345353 125.784544,87.8432043 L125.784544,87.8432043 C126.983875,88.2524195 128.287859,87.611904 128.697075,86.4125729 C128.705691,86.3873202 128.713866,86.3619191 128.721596,86.3363813 L129.934594,82.3291058 C130.471247,80.5562133 132.343504,79.5540429 134.116396,80.0906956 C134.578454,80.23056 135.004873,80.4685248 135.366514,80.7883294 L135.366514,80.7883294 C136.573697,81.8558575 138.417714,81.7426453 139.485242,80.5354628 C139.84372,80.1300886 140.082407,79.6330122 140.174626,79.099786 L141.503974,71.4133403 C141.678886,70.4019765 142.640553,69.7238986 143.651917,69.8988109 C144.466098,70.0396212 145.089535,70.7010712 145.181966,71.5221533 L147.256101,89.9470536 C147.389661,91.1334911 147.79337,92.2735341 148.436222,93.2796223 L148.436222,93.2796223 C148.763393,93.7916578 149.443705,93.9415199 149.95574,93.6143488 C150.105035,93.5189553 150.229084,93.3889189 150.31734,93.2352971 L150.742263,92.4956567 C151.621229,90.9656913 152.221516,89.2917934 152.515166,87.5519242 L156.168761,65.9044584 C156.313776,65.0452463 156.946654,64.3495777 157.788358,64.1241721 L157.788358,64.1241721 C158.605361,63.9053819 159.468162,64.2568382 159.899743,64.9842307 L169.278228,80.79086 C169.509929,81.1813726 169.936493,81.4140688 170.390267,81.3974918 L170.390267,81.3974918 C170.839361,81.3810857 171.238299,81.1060323 171.413332,80.6921259 L171.963152,79.3919417 C172.338013,78.5054901 173.360509,78.0907643 174.246961,78.4656257 C174.358209,78.5126701 174.464264,78.571153 174.563417,78.6401312 L175.797566,79.4986979 C176.867593,80.2430888 178.338468,79.979109 179.082859,78.9090826 C179.273722,78.6347269 179.404139,78.3229636 179.465481,77.9944262 L180.961011,69.9845362 C181.255735,68.4060289 182.36536,67.1021623 183.876415,66.5587844 L183.876415,66.5587844 C185.296274,66.0482009 186.879367,66.6071944 187.663815,67.896123 L191.99342,75.0101125 C193.402684,77.3256787 195.233583,79.356508 197.391239,80.9973597 L197.391239,80.9973597 C198.442094,81.7965131 199.941822,81.5924684 200.740976,80.5416131 C200.991022,80.2128124 201.151597,79.8248271 201.207044,79.415488 L202.842347,67.3429305 C203.163495,64.9720735 203.802029,62.6551744 204.740783,60.4545289 L205.38993,58.9327827 C205.713398,58.1745038 206.590326,57.8220194 207.348605,58.1454866 C207.469807,58.1971892 207.58363,58.2647129 207.687106,58.3462972 L207.687106,58.3462972 C208.667094,59.1189594 209.296155,60.2524619 209.433351,61.492849 L210.918046,74.9159223 C211.001978,75.6747442 211.685164,76.221851 212.443986,76.1379195 C213.108757,76.0643908 213.625536,75.5254842 213.671145,74.8582166 L214.402622,64.1565363 C214.514116,62.5253576 215.926831,61.2934095 217.55801,61.4049033 C218.76028,61.4870805 219.792752,62.2898225 220.168747,63.4347388 L222.300567,69.9261873 C222.654406,71.0036358 223.814693,71.5902375 224.892142,71.2363988 C225.617373,70.9982299 226.150634,70.377422 226.276676,69.6245623 L226.276676,69.6245623 C226.45567,68.5554161 227.467487,67.833805 228.536633,68.0127989 C229.270588,68.1356759 229.871933,68.6630526 230.089544,69.3746941 L232.520154,77.3233858 C232.975603,78.8128155 234.552238,79.6510226 236.041668,79.1955738 C236.929349,78.9241321 237.626605,78.2332435 237.906178,77.3480898 L240.230681,69.9885031 C240.479848,69.1996171 241.162445,68.6257665 241.98241,68.515846 L241.98241,68.515846 C242.751746,68.4127126 243.478764,68.8944881 243.683612,69.6431882 L245.837166,77.5142103 C246.630815,80.4149199 248.173316,83.0559194 250.309924,85.1722614 L253.233295,88.0679036 C253.458595,88.2910672 253.681888,88.5162484 253.903147,88.7434199 L254.755089,89.6181283 C255.065807,89.9371497 255.576311,89.9438809 255.895332,89.633163 C256.028236,89.5037186 256.112438,89.3324042 256.133739,89.148107 L262.215242,36.5321611 C262.279677,35.9746763 262.678813,35.5134662 263.221274,35.369669 L263.221274,35.369669 C263.760864,35.2266327 264.332215,35.4372335 264.649886,35.8962573 L265.541439,37.1845248 C266.467869,38.5231875 266.976285,40.1066274 267.002325,41.7343902 L267.655369,82.5561148 C267.68413,84.35392 267.804358,86.1490971 268.015587,87.934682 L268.72958,93.970278 C268.818683,94.7234945 269.501518,95.2618646 270.254735,95.1727614 C270.847447,95.1026453 271.327016,94.6577331 271.441311,94.0719337 L275.547034,73.0288331 C275.679475,72.3500321 276.337117,71.9071198 277.015918,72.0395608 C277.565351,72.1467608 277.976896,72.6055957 278.023937,73.1634089 L278.705568,81.246246 C278.727682,81.5084725 278.958185,81.7031225 279.220412,81.6810087 C279.312269,81.6732623 279.399907,81.6390371 279.472703,81.5824816 L279.472703,81.5824816 C279.918252,81.236331 280.215824,80.7339825 280.305307,80.1769119 L281.349939,73.6736318 C281.550426,72.4255184 282.060905,71.2476674 282.83461,70.2479861 L282.83461,70.2479861 C283.59824,69.261322 284.672749,68.5615138 285.883924,68.2620242 L295.66464,65.8435263" id="Path-3" stroke="#C07D7E" fill-rule="nonzero" mask="url(#mask-30)"></path>
+                        </g>
+                        <circle id="Oval-4" fill="#C07D7E" fill-rule="nonzero" cx="307" cy="93" r="3"></circle>
+                        <g id="Group-12" opacity="0.5" transform="translate(268.000000, 2.000000)"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -15,7 +15,6 @@
 
       gtag("config", "UA-128249626-2");
     </script>
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="../stylesheets/style.css" />
@@ -35,97 +34,194 @@
     />
   </head>
   <body id="project">
-    <a href="../" id="contact-button">👈🏽</a>
-
-    <div class="text-container">
-      <div class="big-text">
-        Designing a tool to visualise and inspect simulations
+    <div class="navbar">
+      <div class="back">
+        <a href="../">
+          <img src="../assets/point.svg" id="contact-button" alt="" />
+        </a>
       </div>
-      <p>
-        My role at Simudyne was to design a product that would enable users to
-        view and play through the simulations they build in real time - a tool
-        that would remove the gap between their code and the ability to control
-        and inspect their model.
-      </p>
-      <h1>
-        Simudyne is an SDK for building, testing and deploying ‘agent-based’
-        models.
-      </h1>
-      <p>
-        Our users were researchers and analysts who want to test the sanity of
-        their theories using cloud computing and novel paradigms such as
-        agent-based modelling without the need of a computer scientist. The use
-        cases range from testing central bank policies to molecular
-        interactions. The challenge was to design a product general enough to
-        visualise any simulation, whilst meeting the specific needs of each.
-      </p>
-      <h3>Conducting research</h3>
-      <p>
-        The first step in this project was to identify the tasks common to all
-        users. Since the product is not a mass consumer product, but rather a
-        niche technology used by researchers in banks and universities, this
-        involved shadowing users to understand how they used the product, and
-        one-to-one user interviews. At the end of this process, the tasks, pains
-        and success criteria of our users were brought together to understand
-        the problem which needed to be solved.
-      </p>
+      <p>A TOOL FOR SIMULATING AGENT-BASED MODELS</p>
     </div>
-    <div data-aos="fade-up" class="image-container">
-      <div><img src="../assets/console/tasks.png" alt="" /></div>
-      <div><img src="../assets/console/pains.png" alt="" /></div>
-      <div><img src="../assets/console/successes.png" alt="" /></div>
-    </div>
-    <div class="text-container">
-      <h1>Modellers needed a tool to build and test their simulations.</h1>
+    <div class="progress"></div>
+    <div class="case-study">
+      <h2>INTRO</h2>
       <p>
-        I held a workshop with our in-house modellers, some of our users, and
-        our developers, to generate ideas and features that would alleviate
-        pains or allow them to achieve what they wanted more easily. These ideas
-        and features were ranked by usefulness and cost, with the best ones
-        later being used to create a new user flow for how a modeller would now
-        use our product.
+        The goal of this project was to improve a product used by quants and
+        researchers to build agent-based models (ABMs) in finance. My role at
+        the company was to lead the design of an interface for users to
+        visualise and debug their models. I was responsible for user research
+        and prototyping through to high-fidelity mockups and design
+        specifications.
       </p>
-      <h3>
-        Reimagining the user journey
-      </h3>
-      <p>
-        The journey of the user begins at the model design stage. The user would
-        then build the model using the Simudyne SDK, and in real-time, test
-        results and variables in a web based inspector. Once the model is
-        completed, it would then be available in a model lake to allow the user
-        to chain it with other models and conduct larger experiments. The user
-        flow was divided into features of the first design iteration, and
-        features that would come at a later stage. An example of a real use case
-        is given to bring the user journey to life.
-      </p>
-    </div>
-    <div data-aos="fade-up" class="image-container no-background">
-      <div>
-        <img
-          style="min-width: 1000px"
-          src="../assets/console/flow.png"
-          alt=""
-        />
-      </div>
-    </div>
-    <div class="text-container">
-      <h3>Generating ideas</h3>
-      <p>
-        Aside from interviewing and shadowing users, I studied some of the
-        models they were building, as the test of a good design would be to
-        cater for all the models they were building.
-      </p>
-      <a href="https://sketch.cloud/s/e4eGj/a/znGLGW/play">View Prototype</a>
-      <div data-aos="fade-up" data-aos-duration="1000" id="contact">
-        <div class="big-text">Did you say something?</div>
-        <div class="links">
-          <div class="contact-links">
-            <a href="mailto:lamanoujaim@gmail.com"
-              ><span style="opacity:0.5">email</span
-              ><span> lamanoujaim@gmail.com</span></a
-            >
-          </div>
+      <div class="grey">
+        <h2>THE USER</h2>
+        <p>
+          Our users were from banks and research institutions, where they built
+          predictive models in spreadsheets and scripting languages like Python.
+          Understanding the needs and frustrations of these users was paramount
+          to building a product which they would want to invest time in. To
+          learn more, I began by watching them build models, reading the papers
+          they wrote on those models and watching how they would present to
+          their bosses. I spent time every week to talk with them and understand
+          their difficulties and the problems they would most like to solve.
+        </p>
+        <div class="image width550">
+          <img src="../assets/console/user.svg" alt="" />
         </div>
+      </div>
+      <h2>USER FLOW</h2>
+      <p>
+        Through the process of shadowing our users, I built up a simple user
+        flow to help identify the most high-value problems to solve.
+      </p>
+      <div class="image flow full white" id="userflow">
+        <img src="../assets/console/flow/flow1.svg" alt="flow1" />
+        <img src="../assets/console/flow/flow2.svg" alt="flow2" />
+        <img src="../assets/console/flow/flow3.svg" alt="flow3" />
+        <img src="../assets/console/flow/flow4.svg" alt="flow4" />
+        <img src="../assets/console/flow/flow5.svg" alt="flow5" />
+        <img src="../assets/console/flow/flow6.svg" alt="flow6" />
+      </div>
+
+      <p>
+        From initial research, it seemed that the most logical action to take
+        would be to cut out steps 4 and 5, by building a console that would be
+        able to inspect and run their models without the need to write any extra
+        code.
+      </p>
+      <div class="grey">
+        <h2>Agent-based Models</h2>
+        <p>
+          As part of my research, I built several agent-based models entirely
+          from scratch and made sure to deeply understand the modelling
+          paradigm. In simple terms, agent-based models are representations of
+          real-world systems, made up of independent parts which interact with
+          each other through a set of pre-defined attributes, links, and
+          behaviours.
+        </p>
+
+        <div class="image flow width200">
+          <img src="../assets/console/abm/1.svg" alt="" />
+          <img src="../assets/console/abm/2.svg" alt="" />
+          <img src="../assets/console/abm/3.svg" alt="" />
+        </div>
+        <p>
+          The fundamental principles of ABMs are quite intuitive, as the
+          paradigm largely mimics the way the real world is laid out. The
+          difficulties for our users were in building and debugging
+          computational models within an agent-based framework, using tools that
+          are not optimised for this way of thinking, such as spreadsheets which
+          only allow one way links, and Python which would involve a large
+          amount of coding.
+        </p>
+      </div>
+      <h2>VARIABLES</h2>
+      <p>
+        Building ABM into the core of the design was key to creating a product
+        for our users that would distinguish us from our competitors and greatly
+        improve the modelling experience. One example of a feature that was
+        designed with this in mind was the way that variables were analysed from
+        the console.
+      </p>
+      <p>
+        <u>The old way:</u> users would create global variables in their code
+        and then attach them to a chart within a javascript file in their web
+        template.
+      </p>
+      <p>
+        <u>The new way:</u> users would simply fire up their console to show
+        their model and from there be able to access each attribute of each
+        agent type.
+      </p>
+      <div class="grey">
+        <h2>dimensionality</h2>
+        <p>
+          One of the key challenges that arose in designing an ABM console was
+          the number of dimensions of data we had to deal with. ABMs are not
+          deterministic, but probabilistic. This means they should be simulated
+          many times to produce a distribution of results. So every time a model
+          is simulated, data is generated for each agent attribute, and at every
+          time point, creating three dimensions in the data.
+        </p>
+        <p>
+          We wanted to avoid 3D graphs at all costs because rendering many 3D
+          graphs on the same page would be a UX nightmare. Instead we grouped
+          together the agents and the runs of the simulation, so for example ten
+          runs of ten agents would generate 100 points on the same graph. We
+          would then allow the user to choose which attributes they wanted to
+          display on the UI. We decided to test this feature by creating a
+          clickable prototype on Sketch and giving people a set of instructions
+          to see how well they could follow them.
+        </p>
+        <p>
+          <a
+            class="pink-button"
+            target="blank"
+            href="https://sketch.cloud/s/e4eGj/a/znGLGW/play"
+            ><mark>Sketch Prototype</mark></a
+          >
+        </p>
+        <p>
+          Through the process of continual idea generation and prototyping we
+          designed a novel way of dealing with the dimensionality challenges in
+          a way that avoided cluttering the interface with vast swathes of
+          meaningless numbers, but which allowed the modellers to easily view
+          high-level variables whilst being able to drill into lower-level
+          information when necessary.
+        </p>
+        <p>
+          To show the dimension of agent population and simulation runs, we give
+          the user the choice of three types of chart: average, density and
+          simply showing all of the data.
+        </p>
+        <div class="image flow width300">
+          <img width="300px" src="../assets/console/dimension/1.png" alt="" />
+          <img width="300px" src="../assets/console/dimension/2.png" alt="" />
+        </div>
+      </div>
+      <h2>filtering</h2>
+      <p>
+        In solving the problem of handling so much data we had allowed the user
+        to view distributions over large sets of agents and simulation runs. The
+        next challenge was to allow the user to drill in to see individual
+        agents, based on attribute values or tags. This was the purpose of the
+        filter function, which was designed to allow the user to filter by
+        results, attributes or agents.
+      </p>
+      <div class="image width400">
+        <img src="../assets/console/filter.png" alt="" />
+      </div>
+      <div class="grey">
+        <h2>final design</h2>
+        <p>
+          The final design was tested with our in-house modellers first, and
+          went through various iterations with the SDK engineers in order to
+          identify edge cases and refine certain areas of the UI. The graphic
+          style of the UI was intended to be subtle to place focus on the data
+          and the contents of the model itself.
+        </p>
+        <p>
+          Model inputs and run controls were placed on a collapsible panel on
+          the left hand side of the UI, with all output graphs colour coded
+          based on the type of agent being displayed. Users would be able to
+          hide graphs from a menu button on each graph, and bring in new graphs
+          from the search box.
+        </p>
+        <div class="image full">
+          <img class="shadow" src="../assets/console/final.png" alt="" />
+        </div>
+        <p>
+          Certain features, such as the filter feature, were held back for a
+          future release, but the main release was based on features prioritised
+          by our users and the models they were building at that time. To
+          improve upon this design a process was designed to evaluate and
+          prioritise future features.
+        </p>
+        <p>
+          <a class="pink-button" href="../assets/console/process.pdf"
+            ><mark>View process</mark></a
+          >
+        </p>
       </div>
     </div>
 
